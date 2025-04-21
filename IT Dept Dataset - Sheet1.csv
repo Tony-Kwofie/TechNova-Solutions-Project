@@ -1,0 +1,1001 @@
+Date,Department,Project,Cost Center,Manager,Budget (USD),Actual Spend (USD),Variance (USD),Performance Score,Headcount,ROI (%)
+05/15/2024,Data Analytics,Data Warehouse,IT1004,Carol White,426087,205159,220928,1.8,34,0.8
+02/02/2024,Data Analytics,Cloud Migration,IT1005,David Brown,95095,125699,-30604,7.8,17,0.16
+10/19/2024,Data Analytics,Customer Support Portal,IT1005,Carol White,195342,439757,-244415,1.5,46,0.1
+06/09/2024,Data Analytics,Cloud Migration,IT1003,Eva Green,69991,178505,-108514,5.8,12,0.98
+04/14/2024,Data Analytics,Data Warehouse,IT1003,Bob Johnson,172808,156545,16263,7.8,35,0.55
+04/03/2024,Data Analytics,Customer Support Portal,IT1001,David Brown,480942,410250,70692,1.5,46,0.04
+06/19/2024,Data Analytics,Cloud Migration,IT1005,Eva Green,99976,460165,-360189,6.8,21,0.96
+07/09/2024,Data Analytics,Upgrade Network,IT1002,Eva Green,258859,341276,-82417,3.4,23,0.64
+04/24/2024,Data Analytics,Upgrade Network,IT1004,Carol White,266101,450014,-183913,9.9,26,0.9
+03/04/2024,Data Analytics,Security Audit,IT1001,Bob Johnson,242029,155945,86084,4.7,39,0.22
+08/05/2024,Data Analytics,Data Warehouse,IT1002,Alice Smith,377602,227655,149947,9.4,43,-0.02
+01/31/2024,Data Analytics,Security Audit,IT1004,Alice Smith,369759,415309,-45550,8.8,42,0.01
+02/20/2024,Data Analytics,Customer Support Portal,IT1005,David Brown,119087,72101,46986,3.5,8,0
+10/22/2024,Data Analytics,Security Audit,IT1002,David Brown,324441,42775,281666,7.9,43,0.76
+12/05/2024,Data Analytics,Upgrade Network,IT1001,Alice Smith,339272,480399,-141127,7.2,39,-0.1
+08/30/2024,Data Analytics,Data Warehouse,IT1001,Carol White,454372,359268,95104,2.2,33,0.46
+06/26/2024,Data Analytics,Customer Support Portal,IT1004,Carol White,475061,66616,408445,8.6,49,0.6
+02/12/2024,Data Analytics,Cloud Migration,IT1004,Carol White,446016,462871,-16855,1.4,32,0.8
+05/18/2024,Data Analytics,Develop CRM,IT1005,Alice Smith,248522,213115,35407,5.9,34,0.91
+02/26/2024,Data Analytics,Upgrade Network,IT1003,Alice Smith,325194,287908,37286,1.6,48,0.48
+02/08/2024,Data Analytics,Cloud Migration,IT1004,Eva Green,478276,189886,288390,3.6,2,0.34
+05/31/2024,Data Analytics,Customer Support Portal,IT1002,Alice Smith,75675,399046,-323371,8.1,21,0.18
+09/14/2024,Data Analytics,Cloud Migration,IT1003,Alice Smith,387369,393551,-6182,7,3,0.33
+12/27/2024,Data Analytics,Data Warehouse,IT1005,David Brown,179887,85541,94346,7.6,11,0.33
+03/27/2024,Data Analytics,Cloud Migration,IT1002,Eva Green,383713,190655,193058,6,22,0.43
+05/16/2024,Data Analytics,Customer Support Portal,IT1004,Alice Smith,353472,193837,159635,4.1,48,0.77
+02/16/2024,Data Analytics,Develop CRM,IT1005,Alice Smith,336762,407122,-70360,1.8,49,0.43
+08/02/2024,Data Analytics,Data Warehouse,IT1005,Carol White,331063,337247,-6184,9.3,11,0.12
+03/05/2024,Data Analytics,Customer Support Portal,IT1002,Eva Green,489030,327710,161320,1,39,0.54
+07/28/2024,Data Analytics,Data Warehouse,IT1002,Alice Smith,120533,413350,-292817,3.3,9,0.23
+12/30/2024,Data Analytics,Cloud Migration,IT1001,David Brown,368552,126694,241858,10,12,0.3
+09/06/2024,Data Analytics,Cloud Migration,IT1005,David Brown,377031,366873,10158,7.1,9,0.42
+08/19/2024,Data Analytics,Data Warehouse,IT1005,Bob Johnson,181184,454310,-273126,2.8,23,0.6
+05/31/2024,Data Analytics,Develop CRM,IT1003,David Brown,298709,476252,-177543,1.9,49,0.87
+12/27/2024,Data Analytics,Cloud Migration,IT1002,Carol White,343946,184972,158974,1.4,28,0.55
+12/13/2024,Data Analytics,Data Warehouse,IT1002,Carol White,338193,254566,83627,7.6,24,0.99
+02/09/2024,Data Analytics,Security Audit,IT1003,Eva Green,416389,377629,38760,1.5,26,0.87
+11/02/2024,Data Analytics,Upgrade Network,IT1002,Carol White,260722,234472,26250,6.8,25,0.44
+12/23/2024,Data Analytics,Data Warehouse,IT1005,David Brown,484383,394590,89793,9.6,23,0.12
+08/10/2024,Data Analytics,Develop CRM,IT1002,Carol White,462449,109504,352945,9.2,16,0.94
+03/31/2024,Data Analytics,Security Audit,IT1004,Bob Johnson,62360,356577,-294217,1.7,11,0.72
+10/21/2024,Data Analytics,Upgrade Network,IT1001,Eva Green,104330,350762,-246432,6.7,24,0.42
+11/09/2024,Data Analytics,Upgrade Network,IT1002,Alice Smith,304511,247605,56906,9.4,33,0.52
+06/11/2024,Data Analytics,Security Audit,IT1002,Carol White,134381,477436,-343055,9.8,14,0.25
+04/22/2024,Data Analytics,Data Warehouse,IT1002,Carol White,110272,154957,-44685,5,37,-0.1
+09/30/2024,Data Analytics,Develop CRM,IT1001,Carol White,263808,222204,41604,4.4,17,-0.19
+08/12/2024,Data Analytics,Customer Support Portal,IT1004,Eva Green,171759,233154,-61395,8.4,37,0.81
+03/09/2024,Data Analytics,Develop CRM,IT1001,Alice Smith,343125,465278,-122153,4.2,5,0.41
+03/17/2024,Data Analytics,Develop CRM,IT1003,David Brown,166506,225998,-59492,8.1,19,-0.01
+01/08/2024,Data Analytics,Develop CRM,IT1001,Bob Johnson,128513,461604,-333091,6.4,23,0.07
+07/13/2024,Data Analytics,Customer Support Portal,IT1001,Carol White,450890,161757,289133,5.9,37,0.02
+10/20/2024,Data Analytics,Upgrade Network,IT1004,Eva Green,381356,336629,44727,2.7,30,0.24
+09/22/2024,Data Analytics,Develop CRM,IT1003,Bob Johnson,183498,249438,-65940,1.5,27,0.81
+09/20/2024,Data Analytics,Upgrade Network,IT1002,Eva Green,366462,267434,99028,6.2,19,0.43
+02/10/2024,Data Analytics,Develop CRM,IT1003,Eva Green,283540,443222,-159682,1.9,15,-0.14
+04/06/2024,Data Analytics,Data Warehouse,IT1004,David Brown,385932,296505,89427,1.4,43,0.02
+08/04/2024,Data Analytics,Customer Support Portal,IT1002,Alice Smith,450826,372597,78229,4.4,15,0.12
+11/01/2024,Data Analytics,Upgrade Network,IT1004,Bob Johnson,132409,131198,1211,1.9,17,0.75
+12/29/2024,Data Analytics,Develop CRM,IT1004,Eva Green,224588,417858,-193270,6.4,15,0.16
+11/28/2024,Data Analytics,Data Warehouse,IT1004,Carol White,284864,97616,187248,3.1,46,0.13
+01/01/2024,Data Analytics,Develop CRM,IT1002,Alice Smith,462512,251127,211385,8.2,21,0.9
+02/18/2024,Data Analytics,Security Audit,IT1005,Bob Johnson,193927,116918,77009,1.7,5,0.77
+02/13/2024,Data Analytics,Customer Support Portal,IT1003,Carol White,481722,96889,384833,9.8,32,-0.08
+05/14/2024,Data Analytics,Security Audit,IT1004,Eva Green,272542,266256,6286,8.2,10,0.04
+04/04/2024,Data Analytics,Cloud Migration,IT1002,Eva Green,394126,410539,-16413,6.2,4,-0.06
+08/06/2024,Data Analytics,Customer Support Portal,IT1003,Eva Green,341071,250938,90133,4.6,3,0.64
+09/10/2024,Data Analytics,Security Audit,IT1001,Carol White,222166,191499,30667,5.7,4,0.29
+08/22/2024,Data Analytics,Cloud Migration,IT1005,Eva Green,235194,41961,193233,2.2,5,0.6
+04/27/2024,Data Analytics,Security Audit,IT1005,Alice Smith,79493,52497,26996,7.1,26,0.43
+12/21/2024,Data Analytics,Security Audit,IT1005,Alice Smith,249886,459600,-209714,2.2,40,0.21
+09/10/2024,Data Analytics,Data Warehouse,IT1005,Carol White,126709,300991,-174282,9.9,3,0.71
+01/20/2024,Data Analytics,Upgrade Network,IT1004,David Brown,499920,60389,439531,7,32,0.87
+03/23/2024,Data Analytics,Data Warehouse,IT1002,David Brown,325796,313720,12076,4.2,3,0.88
+02/05/2024,Data Analytics,Develop CRM,IT1004,Carol White,163499,242557,-79058,6.1,43,0.18
+09/01/2024,Data Analytics,Security Audit,IT1003,Eva Green,216508,218129,-1621,4.2,26,0.1
+08/03/2024,Data Analytics,Security Audit,IT1003,David Brown,300819,202421,98398,6.1,7,0.33
+06/08/2024,Data Analytics,Security Audit,IT1003,David Brown,389387,278483,110904,5.4,27,0.71
+12/04/2024,Data Analytics,Security Audit,IT1004,Eva Green,381607,377001,4606,3.6,40,-0.04
+08/06/2024,Data Analytics,Data Warehouse,IT1004,Eva Green,292998,59738,233260,7.6,35,0.83
+07/17/2024,Data Analytics,Develop CRM,IT1003,Alice Smith,174116,270926,-96810,1.2,35,0.45
+06/24/2024,Data Analytics,Develop CRM,IT1005,Bob Johnson,163650,117963,45687,9,21,0.06
+02/21/2024,Data Analytics,Develop CRM,IT1002,Alice Smith,476070,490981,-14911,3.4,20,0.15
+12/29/2024,Data Analytics,Security Audit,IT1005,Eva Green,126240,239432,-113192,2.8,24,0.49
+07/30/2024,Data Analytics,Customer Support Portal,IT1002,Alice Smith,425197,326073,99124,6.3,27,0.35
+08/18/2024,Data Analytics,Cloud Migration,IT1005,Bob Johnson,405566,117525,288041,5.7,42,-0.08
+05/04/2024,Data Analytics,Customer Support Portal,IT1005,Eva Green,217527,105785,111742,1.2,27,0.73
+11/12/2024,Data Analytics,Customer Support Portal,IT1004,Carol White,173364,94195,79169,9,13,0.79
+09/13/2024,Data Analytics,Cloud Migration,IT1004,Alice Smith,64955,15901,49054,6.1,6,0.52
+12/15/2024,Data Analytics,Develop CRM,IT1003,David Brown,300144,457927,-157783,9.4,6,-0.09
+06/29/2024,Data Analytics,Upgrade Network,IT1001,David Brown,114925,65464,49461,10,27,0.95
+06/07/2024,Data Analytics,Cloud Migration,IT1002,Eva Green,353602,337584,16018,1.4,14,0.92
+02/26/2024,Data Analytics,Develop CRM,IT1001,Alice Smith,434010,118484,315526,3.2,27,-0.06
+11/01/2024,Data Analytics,Cloud Migration,IT1005,Eva Green,228933,320453,-91520,3.8,40,0.37
+05/02/2024,Data Analytics,Upgrade Network,IT1001,David Brown,65534,386999,-321465,4.5,25,0.34
+04/10/2024,Data Analytics,Upgrade Network,IT1004,David Brown,284473,438377,-153904,5.5,11,-0.01
+10/20/2024,Data Analytics,Cloud Migration,IT1001,David Brown,193279,329140,-135861,9.2,36,0.84
+08/07/2024,Data Analytics,Data Warehouse,IT1005,Alice Smith,246846,400184,-153338,4.3,15,0.56
+12/08/2024,Data Analytics,Upgrade Network,IT1004,Bob Johnson,143500,102669,40831,4.4,26,0.99
+06/28/2024,Data Analytics,Customer Support Portal,IT1003,Bob Johnson,87158,270539,-183381,1.6,22,0.23
+04/12/2024,Data Analytics,Security Audit,IT1003,Eva Green,431783,486459,-54676,2,11,0.4
+10/03/2024,Data Analytics,Develop CRM,IT1003,David Brown,295017,256150,38867,3.2,10,0.18
+12/30/2024,Data Analytics,Customer Support Portal,IT1004,Alice Smith,180841,389294,-208453,8.7,35,0.82
+11/25/2024,Data Analytics,Cloud Migration,IT1001,Carol White,327954,347820,-19866,7.9,36,0.79
+02/18/2024,Data Analytics,Data Warehouse,IT1001,Eva Green,377192,335783,41409,3.8,10,-0.13
+09/20/2024,Data Analytics,Security Audit,IT1002,David Brown,213202,232934,-19732,2.2,4,0.36
+05/24/2024,Data Analytics,Develop CRM,IT1005,Alice Smith,452575,388711,63864,3.8,29,0.73
+03/02/2024,Data Analytics,Upgrade Network,IT1004,David Brown,441192,262820,178372,8.7,30,-0.14
+12/02/2024,Data Analytics,Upgrade Network,IT1002,Carol White,286187,328030,-41843,2.2,19,-0.18
+01/16/2024,Data Analytics,Cloud Migration,IT1001,Eva Green,371335,331576,39759,7.1,42,-0.04
+07/05/2024,Data Analytics,Security Audit,IT1002,David Brown,339192,307598,31594,5.3,25,0.42
+05/15/2024,Data Analytics,Develop CRM,IT1004,Eva Green,323820,445887,-122067,2.7,30,0.06
+01/12/2024,Data Analytics,Data Warehouse,IT1002,David Brown,87405,392064,-304659,8.5,11,0.24
+02/14/2024,Data Analytics,Data Warehouse,IT1005,Alice Smith,347016,498069,-151053,7,33,0.54
+09/14/2024,Data Analytics,Security Audit,IT1004,Alice Smith,183653,193117,-9464,9,41,0.89
+06/23/2024,Data Analytics,Customer Support Portal,IT1002,Eva Green,105480,231084,-125604,6.7,15,0.52
+06/07/2024,Data Analytics,Upgrade Network,IT1003,Eva Green,218017,139319,78698,5.9,24,0.13
+04/11/2024,Data Analytics,Develop CRM,IT1003,David Brown,402245,184341,217904,4.1,28,0.89
+01/01/2024,Data Analytics,Customer Support Portal,IT1003,Bob Johnson,52382,119593,-67211,5.7,43,0.95
+09/11/2024,Data Analytics,Cloud Migration,IT1005,Carol White,492899,162672,330227,5,7,-0.11
+08/05/2024,Data Analytics,Security Audit,IT1004,David Brown,226348,449158,-222810,8.9,45,0.44
+11/14/2024,Data Analytics,Develop CRM,IT1005,David Brown,470162,324697,145465,5.6,29,0.27
+08/02/2024,Data Analytics,Data Warehouse,IT1001,Alice Smith,293381,188441,104940,3.2,41,0.95
+04/23/2024,Data Analytics,Security Audit,IT1002,David Brown,159162,125693,33469,5.1,10,0.72
+10/04/2024,Data Analytics,Upgrade Network,IT1002,Carol White,181742,398302,-216560,2.8,31,0.88
+08/07/2024,Data Analytics,Customer Support Portal,IT1003,Bob Johnson,245784,151023,94761,7.5,28,0.04
+12/13/2024,Data Analytics,Upgrade Network,IT1002,Carol White,389443,365146,24297,7.5,22,0.38
+02/09/2024,Data Analytics,Develop CRM,IT1002,Bob Johnson,487602,209024,278578,1.3,21,0.97
+09/25/2024,Data Analytics,Security Audit,IT1005,Alice Smith,432162,208735,223427,3.1,21,0.06
+09/12/2024,Data Analytics,Data Warehouse,IT1005,Bob Johnson,484219,162019,322200,1.5,26,0.15
+01/15/2024,Data Analytics,Customer Support Portal,IT1004,Alice Smith,398742,219001,179741,4.5,27,0.89
+09/14/2024,Data Analytics,Data Warehouse,IT1001,Alice Smith,173099,160863,12236,7.1,34,-0.14
+05/16/2024,Data Analytics,Upgrade Network,IT1004,Carol White,297572,430015,-132443,9.9,26,0.64
+10/25/2024,Data Analytics,Upgrade Network,IT1002,Alice Smith,393615,175899,217716,5.3,36,0.57
+01/04/2024,Data Analytics,Cloud Migration,IT1003,Carol White,430477,416671,13806,1.9,14,0.18
+10/30/2024,Data Analytics,Data Warehouse,IT1005,Eva Green,344965,453639,-108674,4,41,-0.14
+09/29/2024,Data Analytics,Develop CRM,IT1001,Alice Smith,345866,458524,-112658,1.6,13,-0.18
+04/16/2024,Data Analytics,Customer Support Portal,IT1003,Carol White,484825,469559,15266,4.8,40,-0.19
+08/13/2024,Data Analytics,Cloud Migration,IT1001,David Brown,486523,98219,388304,4.4,26,0.78
+06/08/2024,Data Analytics,Cloud Migration,IT1001,Carol White,333983,204841,129142,5.4,25,0.61
+04/06/2024,Data Analytics,Upgrade Network,IT1001,Bob Johnson,339360,291004,48356,4,49,0.64
+02/16/2024,Data Analytics,Cloud Migration,IT1004,David Brown,365097,297336,67761,2,48,0.95
+04/07/2024,Data Analytics,Develop CRM,IT1004,Bob Johnson,99522,226495,-126973,9.6,45,0.44
+02/29/2024,Data Analytics,Data Warehouse,IT1002,Carol White,474671,229073,245598,2.5,33,-0.05
+09/27/2024,Data Analytics,Data Warehouse,IT1002,David Brown,152638,209707,-57069,9.2,42,0.52
+04/02/2024,Data Analytics,Customer Support Portal,IT1003,David Brown,234514,231249,3265,2.7,11,-0.13
+01/03/2024,Data Analytics,Data Warehouse,IT1001,Bob Johnson,355539,402817,-47278,4.4,18,0.09
+08/26/2024,Data Analytics,Cloud Migration,IT1004,Eva Green,492361,499668,-7307,3.8,21,0.89
+09/26/2024,Data Analytics,Security Audit,IT1002,Bob Johnson,463540,442633,20907,5.5,31,0.21
+10/28/2024,Data Analytics,Upgrade Network,IT1005,Carol White,459319,385280,74039,6.6,11,0.75
+07/29/2024,Data Analytics,Upgrade Network,IT1004,Eva Green,148046,272579,-124533,2.7,25,0.52
+10/19/2024,Data Analytics,Upgrade Network,IT1004,Carol White,393303,94786,298517,4,8,0.5
+02/03/2024,Data Analytics,Security Audit,IT1003,Eva Green,267980,385339,-117359,4.2,17,0.8
+01/14/2024,Data Analytics,Develop CRM,IT1003,Alice Smith,347647,280909,66738,6.4,13,0.34
+11/14/2024,Data Analytics,Cloud Migration,IT1001,Eva Green,375488,348479,27009,2.6,10,0.92
+09/25/2024,Data Analytics,Customer Support Portal,IT1003,Alice Smith,423747,379997,43750,9,39,0.39
+09/30/2024,Data Analytics,Upgrade Network,IT1001,Eva Green,75525,153052,-77527,7.2,40,0.88
+04/07/2024,Data Analytics,Customer Support Portal,IT1005,David Brown,129818,472551,-342733,3.8,34,0.89
+07/08/2024,Data Analytics,Data Warehouse,IT1005,Eva Green,243839,384825,-140986,4.5,46,0.73
+09/03/2024,Data Analytics,Security Audit,IT1002,David Brown,413298,468697,-55399,2.3,48,0.52
+12/25/2024,Data Analytics,Data Warehouse,IT1001,Eva Green,355613,201081,154532,9.2,27,-0.01
+12/18/2024,Data Analytics,Upgrade Network,IT1001,David Brown,467209,263279,203930,7.7,33,0.56
+02/04/2024,Data Analytics,Customer Support Portal,IT1002,Carol White,387468,338844,48624,4.3,26,0.58
+01/30/2024,Data Analytics,Upgrade Network,IT1003,Carol White,351994,79169,272825,1.4,10,-0.05
+12/26/2024,Data Analytics,Upgrade Network,IT1004,Eva Green,434708,393039,41669,9.7,29,0.04
+05/31/2024,Data Analytics,Cloud Migration,IT1004,Eva Green,408133,349509,58624,4.9,24,0.66
+10/09/2024,Data Analytics,Customer Support Portal,IT1001,Alice Smith,275162,399675,-124513,8.2,38,-0.12
+11/08/2024,Data Analytics,Develop CRM,IT1003,Carol White,443786,175758,268028,7.7,39,0.19
+11/12/2024,Data Analytics,Security Audit,IT1004,Carol White,376719,469806,-93087,9.7,30,0.69
+11/04/2024,Data Analytics,Customer Support Portal,IT1003,David Brown,179744,203456,-23712,2.1,45,0.66
+01/19/2024,Data Analytics,Customer Support Portal,IT1004,Carol White,264127,143119,121008,8.6,40,0.95
+07/20/2024,Data Analytics,Upgrade Network,IT1005,Bob Johnson,386246,451595,-65349,2.4,22,0.12
+05/02/2024,Data Analytics,Develop CRM,IT1005,Alice Smith,427038,480670,-53632,7.6,16,0.35
+10/04/2024,Infrastructure,Cloud Migration,IT1004,Alice Smith,304205,276663,27542,1.3,3,0.18
+05/20/2024,Infrastructure,Cloud Migration,IT1005,Eva Green,315976,63559,252417,9,17,0.76
+09/13/2024,Infrastructure,Upgrade Network,IT1004,David Brown,271883,494103,-222220,9.1,26,0.75
+10/16/2024,Infrastructure,Security Audit,IT1002,David Brown,465534,255558,209976,4.2,39,0.05
+12/26/2024,Infrastructure,Customer Support Portal,IT1002,David Brown,201538,437415,-235877,2.4,16,0.58
+12/05/2024,Infrastructure,Cloud Migration,IT1002,Eva Green,372286,128151,244135,8.1,38,0.11
+06/14/2024,Infrastructure,Customer Support Portal,IT1002,Carol White,101001,477602,-376601,5.2,40,-0.05
+10/05/2024,Infrastructure,Develop CRM,IT1005,David Brown,267583,180148,87435,6,19,0.03
+07/04/2024,Infrastructure,Upgrade Network,IT1003,Eva Green,255776,475651,-219875,6.2,28,0.71
+02/12/2024,Infrastructure,Customer Support Portal,IT1005,Carol White,269571,429054,-159483,6.6,24,0.01
+11/03/2024,Infrastructure,Cloud Migration,IT1001,Alice Smith,192180,105149,87031,6.5,27,0.54
+06/06/2024,Infrastructure,Security Audit,IT1001,Carol White,309904,261767,48137,7.6,20,0.06
+05/19/2024,Infrastructure,Data Warehouse,IT1003,Carol White,485928,225639,260289,4.1,10,-0.06
+04/02/2024,Infrastructure,Data Warehouse,IT1005,Bob Johnson,445826,208171,237655,5.3,30,0.82
+02/22/2024,Infrastructure,Data Warehouse,IT1005,David Brown,127603,196903,-69300,9.4,40,-0.01
+09/08/2024,Infrastructure,Develop CRM,IT1001,Carol White,434193,417023,17170,1.7,12,0.98
+05/30/2024,Infrastructure,Upgrade Network,IT1004,Alice Smith,450479,401309,49170,6.7,12,0.57
+01/22/2024,Infrastructure,Cloud Migration,IT1002,Carol White,403262,493323,-90061,7,32,0.51
+01/25/2024,Infrastructure,Data Warehouse,IT1005,Carol White,63689,243347,-179658,1.5,47,0.11
+04/04/2024,Infrastructure,Upgrade Network,IT1005,David Brown,151968,268495,-116527,6.1,37,0.03
+06/03/2024,Infrastructure,Security Audit,IT1001,David Brown,218197,487599,-269402,2.3,29,0.32
+07/25/2024,Infrastructure,Develop CRM,IT1005,Alice Smith,353664,55735,297929,9.1,39,0.94
+03/19/2024,Infrastructure,Cloud Migration,IT1001,Eva Green,347142,260534,86608,3.7,45,-0.1
+12/12/2024,Infrastructure,Upgrade Network,IT1004,Carol White,397235,312836,84399,6.3,39,0.73
+06/15/2024,Infrastructure,Customer Support Portal,IT1001,David Brown,209034,486440,-277406,4.2,27,0.45
+08/21/2024,Infrastructure,Develop CRM,IT1002,David Brown,379535,356363,23172,3.2,44,0.69
+05/11/2024,Infrastructure,Security Audit,IT1002,Alice Smith,457010,113616,343394,3.8,3,0.03
+04/25/2024,Infrastructure,Data Warehouse,IT1002,Carol White,370146,127438,242708,1.9,28,0.35
+01/22/2024,Infrastructure,Customer Support Portal,IT1001,Bob Johnson,347675,156841,190834,2.6,39,0.14
+12/05/2024,Infrastructure,Develop CRM,IT1001,Eva Green,344442,292734,51708,5.8,47,0.58
+03/21/2024,Infrastructure,Develop CRM,IT1005,Alice Smith,250339,227068,23271,6.2,9,-0.11
+09/07/2024,Infrastructure,Develop CRM,IT1004,David Brown,77798,469271,-391473,4.6,39,0.65
+02/14/2024,Infrastructure,Develop CRM,IT1004,David Brown,69477,411594,-342117,3.8,22,-0.16
+07/09/2024,Infrastructure,Customer Support Portal,IT1003,Carol White,439570,105982,333588,7.3,49,0.93
+08/29/2024,Infrastructure,Customer Support Portal,IT1003,Alice Smith,336479,154091,182388,8.9,16,-0.12
+04/27/2024,Infrastructure,Data Warehouse,IT1001,Bob Johnson,398754,400834,-2080,7.6,27,0.09
+01/14/2024,Infrastructure,Security Audit,IT1004,David Brown,156464,263295,-106831,8.6,38,0.8
+10/24/2024,Infrastructure,Cloud Migration,IT1001,Alice Smith,137051,180246,-43195,2.1,8,0.21
+07/29/2024,Infrastructure,Upgrade Network,IT1001,Alice Smith,200653,84739,115914,9.7,24,0.92
+12/20/2024,Infrastructure,Security Audit,IT1001,Eva Green,109722,496200,-386478,5.3,41,0.05
+01/02/2024,Infrastructure,Cloud Migration,IT1002,Alice Smith,331696,163728,167968,6.3,39,0.52
+06/02/2024,Infrastructure,Customer Support Portal,IT1002,Eva Green,191880,450784,-258904,5.9,32,0.44
+11/17/2024,Infrastructure,Customer Support Portal,IT1004,Alice Smith,302100,378227,-76127,8.3,29,0.7
+12/08/2024,Infrastructure,Develop CRM,IT1004,Alice Smith,446981,305406,141575,6,37,0.62
+11/26/2024,Infrastructure,Security Audit,IT1003,Eva Green,429270,369125,60145,4.2,42,0.86
+06/06/2024,Infrastructure,Cloud Migration,IT1005,Eva Green,154092,205286,-51194,6.3,19,0.9
+07/23/2024,Infrastructure,Data Warehouse,IT1004,David Brown,279577,391479,-111902,9.7,24,0.71
+11/29/2024,Infrastructure,Upgrade Network,IT1004,Alice Smith,453777,283896,169881,1.6,13,0.99
+12/18/2024,Infrastructure,Cloud Migration,IT1004,David Brown,145556,51874,93682,2.5,21,0.11
+08/20/2024,Infrastructure,Develop CRM,IT1003,Bob Johnson,375019,264137,110882,6.9,40,0.32
+07/29/2024,Infrastructure,Upgrade Network,IT1004,Bob Johnson,430634,160606,270028,4.7,2,0.93
+03/04/2024,Infrastructure,Cloud Migration,IT1003,David Brown,340374,52100,288274,5,42,0.73
+11/25/2024,Infrastructure,Customer Support Portal,IT1002,David Brown,95833,498211,-402378,1.6,4,0.46
+08/05/2024,Infrastructure,Security Audit,IT1004,Alice Smith,246375,224196,22179,5.3,46,0.67
+01/01/2024,Infrastructure,Security Audit,IT1004,Alice Smith,126361,197609,-71248,6.4,27,-0.16
+08/31/2024,Infrastructure,Data Warehouse,IT1003,Eva Green,144876,174844,-29968,2.5,25,0.46
+12/13/2024,Infrastructure,Security Audit,IT1004,Bob Johnson,262954,255129,7825,1.5,17,0.32
+01/15/2024,Infrastructure,Cloud Migration,IT1005,Alice Smith,197265,295077,-97812,5.9,35,0.22
+03/06/2024,Infrastructure,Upgrade Network,IT1001,David Brown,180356,297680,-117324,6.1,2,0.62
+07/16/2024,Infrastructure,Develop CRM,IT1002,Alice Smith,423216,111386,311830,9.5,12,0.59
+10/16/2024,Infrastructure,Security Audit,IT1002,David Brown,144767,357894,-213127,6.3,35,0.58
+09/10/2024,Infrastructure,Develop CRM,IT1004,Carol White,226872,326199,-99327,1.7,42,0.66
+11/01/2024,Infrastructure,Data Warehouse,IT1001,Eva Green,79084,459690,-380606,3.5,4,-0.05
+04/23/2024,Infrastructure,Upgrade Network,IT1003,Alice Smith,90387,437244,-346857,9.5,13,0.51
+01/08/2024,Infrastructure,Customer Support Portal,IT1005,David Brown,367420,351793,15627,8.3,36,0.07
+04/27/2024,Infrastructure,Cloud Migration,IT1003,Alice Smith,243984,479709,-235725,2.2,31,0.04
+07/09/2024,Infrastructure,Security Audit,IT1003,Alice Smith,156121,430980,-274859,4.4,23,0.9
+08/04/2024,Infrastructure,Data Warehouse,IT1004,Bob Johnson,126872,171871,-44999,2.9,25,0.83
+01/25/2024,Infrastructure,Security Audit,IT1001,Bob Johnson,132289,484955,-352666,6.7,42,0.98
+01/16/2024,Infrastructure,Security Audit,IT1004,David Brown,463090,349718,113372,4.7,3,0.05
+04/30/2024,Infrastructure,Cloud Migration,IT1004,Alice Smith,312043,283171,28872,6.6,48,-0.17
+01/16/2024,Infrastructure,Data Warehouse,IT1005,David Brown,304024,190528,113496,6.4,22,0.47
+01/09/2024,Infrastructure,Customer Support Portal,IT1004,David Brown,249570,299066,-49496,3,32,-0.19
+02/25/2024,Infrastructure,Cloud Migration,IT1004,Carol White,93764,178487,-84723,8.6,21,0.47
+06/24/2024,Infrastructure,Upgrade Network,IT1005,Bob Johnson,173030,58074,114956,2.3,3,0.4
+12/02/2024,Infrastructure,Develop CRM,IT1005,Carol White,444350,186621,257729,5.6,42,-0.03
+04/25/2024,Infrastructure,Customer Support Portal,IT1004,Eva Green,334013,199882,134131,1.4,8,0.24
+11/15/2024,Infrastructure,Data Warehouse,IT1003,Eva Green,162935,368336,-205401,5.9,6,0.09
+02/06/2024,Infrastructure,Cloud Migration,IT1001,David Brown,339730,246548,93182,8.6,11,-0.01
+11/06/2024,Infrastructure,Upgrade Network,IT1005,Eva Green,379041,196140,182901,7.2,19,-0.11
+05/29/2024,Infrastructure,Security Audit,IT1002,Carol White,412441,53682,358759,6.8,30,0.69
+01/22/2024,Infrastructure,Data Warehouse,IT1002,Alice Smith,73248,493911,-420663,9.6,12,0.34
+12/10/2024,Infrastructure,Develop CRM,IT1005,Carol White,120843,373152,-252309,8.9,45,0.17
+12/10/2024,Infrastructure,Cloud Migration,IT1002,Eva Green,385377,351699,33678,7.6,33,0.4
+04/06/2024,Infrastructure,Cloud Migration,IT1001,David Brown,156133,499421,-343288,8.5,31,0.29
+02/07/2024,Infrastructure,Develop CRM,IT1004,Eva Green,438793,267579,171214,1.5,4,0.78
+12/22/2024,Infrastructure,Security Audit,IT1003,David Brown,147493,216999,-69506,5.9,27,0.47
+11/04/2024,Infrastructure,Upgrade Network,IT1001,David Brown,151948,257136,-105188,10,47,-0.03
+08/24/2024,Infrastructure,Upgrade Network,IT1004,David Brown,418760,219075,199685,4.2,45,0.39
+12/22/2024,Infrastructure,Security Audit,IT1005,Carol White,317247,296063,21184,6.3,33,0.88
+08/03/2024,Infrastructure,Cloud Migration,IT1002,Bob Johnson,375203,368953,6250,6.1,38,-0.04
+09/03/2024,Infrastructure,Cloud Migration,IT1001,Carol White,326531,258306,68225,5.5,12,-0.12
+05/25/2024,Infrastructure,Cloud Migration,IT1004,Eva Green,491732,220494,271238,9.5,22,0.47
+11/25/2024,Infrastructure,Upgrade Network,IT1004,Alice Smith,474032,308449,165583,9.1,31,0.25
+01/14/2024,Infrastructure,Data Warehouse,IT1005,Carol White,73408,219334,-145926,2.8,9,0.22
+05/21/2024,Infrastructure,Develop CRM,IT1002,Carol White,106358,141638,-35280,4.9,20,0.47
+11/06/2024,Infrastructure,Cloud Migration,IT1003,Alice Smith,116197,114591,1606,7.7,6,0.69
+02/12/2024,Infrastructure,Develop CRM,IT1005,Bob Johnson,240920,111088,129832,1.8,30,0.59
+04/02/2024,Infrastructure,Data Warehouse,IT1003,Eva Green,235388,144188,91200,7,17,0.33
+05/16/2024,Infrastructure,Data Warehouse,IT1002,Bob Johnson,194989,414724,-219735,7.1,29,0.2
+01/31/2024,Infrastructure,Data Warehouse,IT1005,Bob Johnson,419360,443497,-24137,7.5,6,0.77
+02/25/2024,Infrastructure,Develop CRM,IT1005,David Brown,401181,397226,3955,3.1,29,0.21
+12/02/2024,Infrastructure,Develop CRM,IT1005,Carol White,149977,96683,53294,3.3,44,0.48
+09/17/2024,Infrastructure,Data Warehouse,IT1001,Alice Smith,489529,497994,-8465,5.5,19,0.93
+12/27/2024,Infrastructure,Security Audit,IT1004,Eva Green,381310,396242,-14932,7.8,14,0.83
+05/27/2024,Infrastructure,Customer Support Portal,IT1001,Carol White,147406,298071,-150665,4.7,34,0.99
+10/28/2024,Infrastructure,Cloud Migration,IT1002,Carol White,490437,440751,49686,9.8,49,-0.11
+06/24/2024,Infrastructure,Data Warehouse,IT1004,Alice Smith,53453,378647,-325194,9.4,39,0.29
+07/15/2024,Infrastructure,Cloud Migration,IT1005,Alice Smith,152811,439777,-286966,3.7,3,0.14
+02/02/2024,Infrastructure,Upgrade Network,IT1002,David Brown,224442,178419,46023,7.2,39,-0.1
+05/09/2024,Infrastructure,Upgrade Network,IT1005,David Brown,99170,322348,-223178,7.6,42,1
+11/20/2024,Infrastructure,Cloud Migration,IT1001,Eva Green,320784,312796,7988,3.8,18,0
+04/06/2024,Infrastructure,Data Warehouse,IT1001,David Brown,448834,431716,17118,7.7,15,0.89
+08/30/2024,Infrastructure,Data Warehouse,IT1002,Bob Johnson,252160,407216,-155056,8.6,49,0.14
+05/05/2024,Infrastructure,Customer Support Portal,IT1004,Alice Smith,134607,160091,-25484,5.4,42,0.38
+05/21/2024,Infrastructure,Upgrade Network,IT1001,David Brown,50192,478029,-427837,4,49,0.14
+01/13/2024,Infrastructure,Customer Support Portal,IT1001,Carol White,89082,340164,-251082,2.1,40,0.43
+09/28/2024,Infrastructure,Cloud Migration,IT1004,Eva Green,86468,122659,-36191,4,31,0.76
+03/20/2024,Infrastructure,Data Warehouse,IT1002,Eva Green,299664,492974,-193310,3.3,3,0.08
+08/26/2024,Infrastructure,Upgrade Network,IT1003,Eva Green,158117,155289,2828,1.5,17,0.65
+05/15/2024,Infrastructure,Upgrade Network,IT1004,Alice Smith,326815,323028,3787,7.5,49,0.38
+01/05/2024,Infrastructure,Upgrade Network,IT1005,Eva Green,101717,227069,-125352,1.4,27,0.03
+04/26/2024,Infrastructure,Security Audit,IT1005,Bob Johnson,52763,32222,20541,9.7,30,0.3
+12/25/2024,Infrastructure,Security Audit,IT1004,Alice Smith,168094,173804,-5710,9.5,2,0.92
+05/07/2024,Infrastructure,Develop CRM,IT1002,Carol White,277443,89420,188023,8,27,0.74
+07/23/2024,Infrastructure,Customer Support Portal,IT1003,Alice Smith,61064,65504,-4440,4.5,19,-0.18
+04/02/2024,Infrastructure,Develop CRM,IT1004,David Brown,126848,42462,84386,2.3,10,0.19
+05/24/2024,Infrastructure,Data Warehouse,IT1004,Carol White,439763,201215,238548,4.8,3,0.83
+01/10/2024,Infrastructure,Develop CRM,IT1002,Alice Smith,467339,390353,76986,2.8,23,0.03
+07/02/2024,Infrastructure,Data Warehouse,IT1002,Alice Smith,400067,377283,22784,8.4,24,0.03
+08/02/2024,Infrastructure,Data Warehouse,IT1001,Eva Green,442670,45368,397302,4.8,6,0.12
+09/05/2024,Infrastructure,Security Audit,IT1002,Eva Green,118842,266863,-148021,3.9,36,0.93
+10/14/2024,Infrastructure,Security Audit,IT1003,Alice Smith,459849,181355,278494,9.4,36,-0.15
+07/19/2024,Infrastructure,Security Audit,IT1005,David Brown,213244,275052,-61808,4.1,22,0.08
+12/08/2024,Infrastructure,Data Warehouse,IT1004,Bob Johnson,151158,182656,-31498,4.4,6,0.76
+05/01/2024,Infrastructure,Develop CRM,IT1004,David Brown,323721,378422,-54701,6.6,46,0.82
+01/11/2024,Infrastructure,Customer Support Portal,IT1004,David Brown,84693,150206,-65513,5.6,2,0.05
+04/01/2024,Infrastructure,Develop CRM,IT1002,Carol White,95913,86143,9770,9.9,13,0.18
+07/04/2024,Infrastructure,Data Warehouse,IT1004,Alice Smith,247097,184771,62326,3.2,6,0.31
+01/03/2024,Infrastructure,Cloud Migration,IT1003,Carol White,137796,496713,-358917,9.9,23,0.94
+01/03/2024,Infrastructure,Upgrade Network,IT1004,Alice Smith,134811,126385,8426,4.1,4,0.4
+12/13/2024,Infrastructure,Cloud Migration,IT1003,David Brown,89178,280951,-191773,8.4,25,0.61
+10/18/2024,Infrastructure,Data Warehouse,IT1004,David Brown,494943,240462,254481,8.4,34,0.48
+04/02/2024,Infrastructure,Customer Support Portal,IT1001,Bob Johnson,350856,99550,251306,3.8,25,-0.04
+09/04/2024,Infrastructure,Customer Support Portal,IT1004,Bob Johnson,221244,255702,-34458,3.1,17,0.86
+02/09/2024,Infrastructure,Upgrade Network,IT1003,Bob Johnson,56859,176950,-120091,3.6,43,0.34
+04/22/2024,Infrastructure,Cloud Migration,IT1001,Bob Johnson,57485,17877,39608,3.9,14,0.16
+11/10/2024,Infrastructure,Customer Support Portal,IT1001,Carol White,459983,340228,119755,2.1,37,0.23
+09/07/2024,Infrastructure,Security Audit,IT1005,Eva Green,471669,476108,-4439,2.1,23,0.37
+05/08/2024,Infrastructure,Upgrade Network,IT1001,Alice Smith,143405,307612,-164207,1.7,19,0.32
+08/20/2024,Infrastructure,Cloud Migration,IT1005,Alice Smith,334732,402310,-67578,9.6,8,0.7
+04/11/2024,Infrastructure,Data Warehouse,IT1005,Alice Smith,178585,467189,-288604,2.8,34,-0.01
+10/18/2024,Infrastructure,Cloud Migration,IT1004,Bob Johnson,424743,286367,138376,7.2,15,0.5
+04/01/2024,Infrastructure,Customer Support Portal,IT1002,Eva Green,75939,387768,-311829,2.5,30,0.6
+03/17/2024,Infrastructure,Security Audit,IT1003,Alice Smith,476673,344082,132591,9.5,7,0.84
+02/09/2024,Infrastructure,Develop CRM,IT1002,Carol White,175829,99807,76022,7.9,38,-0.11
+04/21/2024,Infrastructure,Security Audit,IT1001,David Brown,225607,423685,-198078,4.1,11,0.95
+10/30/2024,Infrastructure,Customer Support Portal,IT1002,Carol White,324535,336870,-12335,9.3,28,0.98
+06/23/2024,Infrastructure,Customer Support Portal,IT1003,Bob Johnson,472117,286732,185385,6.6,27,-0.02
+05/23/2024,Infrastructure,Customer Support Portal,IT1001,Eva Green,154927,408632,-253705,3.7,18,-0.02
+08/07/2024,Infrastructure,Upgrade Network,IT1005,Alice Smith,227826,125166,102660,8.4,28,0.05
+12/05/2024,Infrastructure,Upgrade Network,IT1001,Carol White,307438,411357,-103919,1.8,46,0.4
+09/21/2024,Infrastructure,Develop CRM,IT1005,Carol White,476903,429725,47178,1.1,15,0.02
+12/09/2024,Infrastructure,Security Audit,IT1003,Eva Green,408606,409149,-543,2.5,32,0.4
+03/28/2024,Infrastructure,Cloud Migration,IT1002,Carol White,304466,148297,156169,9,15,0.69
+02/23/2024,Infrastructure,Security Audit,IT1002,Carol White,136724,78346,58378,5.8,37,0.72
+09/27/2024,Infrastructure,Cloud Migration,IT1005,Alice Smith,279204,152138,127066,2.8,49,0.32
+12/30/2024,Infrastructure,Upgrade Network,IT1002,David Brown,121196,148598,-27402,7.8,33,0.54
+11/18/2024,Infrastructure,Cloud Migration,IT1005,Carol White,191994,168447,23547,7.6,19,-0.09
+09/05/2024,Infrastructure,Customer Support Portal,IT1004,Carol White,479505,451693,27812,6.4,38,0.91
+06/28/2024,Infrastructure,Develop CRM,IT1004,Alice Smith,496751,402793,93958,7.7,38,0.77
+03/21/2024,Infrastructure,Data Warehouse,IT1003,Alice Smith,69610,217203,-147593,1.5,44,0.89
+11/14/2024,Infrastructure,Security Audit,IT1004,Alice Smith,227718,185558,42160,4.6,27,-0.05
+06/21/2024,Infrastructure,Upgrade Network,IT1003,David Brown,348326,374922,-26596,6.7,5,-0.12
+12/20/2024,Infrastructure,Upgrade Network,IT1005,Eva Green,428280,419162,9118,2.7,23,0.13
+08/11/2024,Infrastructure,Develop CRM,IT1004,Eva Green,390968,463159,-72191,2.8,27,0.14
+11/22/2024,Infrastructure,Cloud Migration,IT1001,Carol White,387746,314349,73397,2.9,9,0.38
+05/05/2024,Infrastructure,Develop CRM,IT1002,Eva Green,329143,368621,-39478,9.1,11,0.93
+12/26/2024,Infrastructure,Upgrade Network,IT1002,Bob Johnson,204542,313836,-109294,5,12,0.92
+11/01/2024,Infrastructure,Data Warehouse,IT1004,Carol White,253834,134837,118997,7.6,11,0.79
+01/22/2024,Infrastructure,Security Audit,IT1003,Eva Green,284538,263068,21470,6.4,44,0.42
+08/24/2024,Network,Security Audit,IT1003,David Brown,197745,59404,138341,8.2,43,-0.14
+04/23/2024,Network,Develop CRM,IT1003,Eva Green,57415,140245,-82830,3.4,32,0.41
+12/23/2024,Network,Customer Support Portal,IT1003,Alice Smith,296038,224099,71939,4.2,12,0.43
+07/12/2024,Network,Cloud Migration,IT1002,Bob Johnson,218616,370714,-152098,2.7,33,-0.06
+04/14/2024,Network,Customer Support Portal,IT1001,David Brown,397220,478051,-80831,8.4,12,0.74
+05/30/2024,Network,Data Warehouse,IT1003,David Brown,496675,341494,155181,7.1,7,0.93
+04/23/2024,Network,Cloud Migration,IT1001,Alice Smith,350546,429439,-78893,8.4,24,0.63
+07/07/2024,Network,Data Warehouse,IT1004,Bob Johnson,207636,160318,47318,6.2,23,0.28
+01/22/2024,Network,Customer Support Portal,IT1005,Eva Green,442573,410446,32127,8.4,45,0.65
+06/01/2024,Network,Data Warehouse,IT1004,David Brown,470343,430452,39891,9,36,0.98
+02/25/2024,Network,Upgrade Network,IT1002,Eva Green,186213,45750,140463,9.9,35,0.74
+10/27/2024,Network,Upgrade Network,IT1001,Bob Johnson,78884,366075,-287191,3.6,29,0.27
+08/21/2024,Network,Cloud Migration,IT1001,David Brown,65088,193561,-128473,3.3,14,0.46
+04/27/2024,Network,Customer Support Portal,IT1004,Bob Johnson,228207,335158,-106951,3.9,21,0.87
+10/06/2024,Network,Cloud Migration,IT1005,Eva Green,474097,157305,316792,6.3,28,-0.09
+11/29/2024,Network,Data Warehouse,IT1003,Carol White,128077,495633,-367556,6.4,31,0.45
+03/22/2024,Network,Develop CRM,IT1002,Eva Green,365018,240753,124265,4.9,27,0.53
+06/02/2024,Network,Upgrade Network,IT1001,Eva Green,463089,175203,287886,5.5,12,0.79
+11/23/2024,Network,Cloud Migration,IT1003,Alice Smith,396184,232003,164181,4.1,36,0.05
+06/16/2024,Network,Security Audit,IT1002,David Brown,444754,189335,255419,5.7,26,-0.03
+02/14/2024,Network,Upgrade Network,IT1003,Alice Smith,312318,215745,96573,7.1,3,0.86
+08/27/2024,Network,Upgrade Network,IT1002,Alice Smith,385299,106983,278316,7,37,0.24
+07/30/2024,Network,Upgrade Network,IT1001,Eva Green,338544,209302,129242,4.6,27,0.67
+03/07/2024,Network,Data Warehouse,IT1002,Carol White,138791,325337,-186546,7.4,45,0.41
+01/07/2024,Network,Data Warehouse,IT1001,Eva Green,237256,393561,-156305,1.1,6,-0.1
+04/16/2024,Network,Security Audit,IT1001,Carol White,422047,170956,251091,1.8,4,-0.15
+01/09/2024,Network,Security Audit,IT1003,Alice Smith,443605,110744,332861,5.9,48,0.66
+01/21/2024,Network,Security Audit,IT1004,David Brown,287501,298135,-10634,1.9,22,0
+04/24/2024,Network,Cloud Migration,IT1001,Eva Green,54986,159934,-104948,5,39,0.57
+04/17/2024,Network,Security Audit,IT1001,Carol White,460051,141407,318644,3.9,34,0.98
+03/28/2024,Network,Data Warehouse,IT1002,David Brown,141649,71379,70270,7.1,22,-0.19
+06/12/2024,Network,Customer Support Portal,IT1001,Bob Johnson,486742,251144,235598,7.2,30,0.35
+10/14/2024,Network,Data Warehouse,IT1001,Alice Smith,454470,157797,296673,5.5,31,0.36
+04/06/2024,Network,Develop CRM,IT1002,Bob Johnson,349471,269602,79869,3.6,37,0.23
+03/21/2024,Network,Data Warehouse,IT1003,Eva Green,379104,74700,304404,1.5,29,0.96
+09/09/2024,Network,Upgrade Network,IT1003,Alice Smith,204692,111045,93647,6.7,34,0.1
+06/27/2024,Network,Upgrade Network,IT1005,Alice Smith,168639,41881,126758,3.3,27,0.14
+07/02/2024,Network,Upgrade Network,IT1005,Bob Johnson,434890,128059,306831,6.2,9,0.63
+03/27/2024,Network,Security Audit,IT1004,Eva Green,451062,149388,301674,5.2,43,0.2
+03/19/2024,Network,Customer Support Portal,IT1003,Alice Smith,96220,188303,-92083,2.7,8,0.33
+08/10/2024,Network,Develop CRM,IT1005,Alice Smith,125277,121972,3305,3.8,3,-0.13
+01/28/2024,Network,Develop CRM,IT1004,Alice Smith,374264,316223,58041,5.1,49,0.94
+02/10/2024,Network,Data Warehouse,IT1005,Bob Johnson,334769,190872,143897,8.3,47,-0.06
+12/17/2024,Network,Upgrade Network,IT1002,Bob Johnson,372854,373363,-509,4.5,36,-0.12
+05/17/2024,Network,Upgrade Network,IT1002,Carol White,161541,194720,-33179,6.4,17,0.89
+05/17/2024,Network,Security Audit,IT1002,Bob Johnson,111842,271075,-159233,6.2,16,0.54
+02/24/2024,Network,Develop CRM,IT1001,Carol White,339134,40336,298798,8.2,16,-0.15
+02/27/2024,Network,Cloud Migration,IT1005,Carol White,262802,222220,40582,3.7,5,0.77
+01/12/2024,Network,Upgrade Network,IT1003,Eva Green,313450,239737,73713,4.9,36,-0.12
+11/11/2024,Network,Customer Support Portal,IT1002,Alice Smith,480179,131911,348268,5.3,43,0.91
+12/23/2024,Network,Data Warehouse,IT1005,Eva Green,236633,227723,8910,2.6,38,0.03
+05/27/2024,Network,Cloud Migration,IT1001,Carol White,374404,373272,1132,7.5,49,0.39
+09/07/2024,Network,Upgrade Network,IT1005,Bob Johnson,196510,401324,-204814,1.4,16,0.94
+11/16/2024,Network,Data Warehouse,IT1003,David Brown,360586,354639,5947,4.6,3,0.26
+06/28/2024,Network,Security Audit,IT1004,Carol White,415205,122806,292399,5.6,42,0.31
+01/23/2024,Network,Security Audit,IT1003,Eva Green,446210,395329,50881,6.2,8,0.66
+11/08/2024,Network,Develop CRM,IT1005,Bob Johnson,411719,440046,-28327,5.3,21,0.29
+06/22/2024,Network,Customer Support Portal,IT1003,Carol White,299880,210591,89289,1.8,2,-0.17
+03/03/2024,Network,Data Warehouse,IT1005,David Brown,325049,345239,-20190,8.4,38,0.74
+09/12/2024,Network,Develop CRM,IT1005,Alice Smith,467567,112307,355260,6.3,37,0.76
+02/29/2024,Network,Upgrade Network,IT1004,David Brown,386047,347576,38471,8.2,37,0.08
+05/04/2024,Network,Customer Support Portal,IT1005,Carol White,232003,426607,-194604,9.6,22,0.75
+08/19/2024,Network,Cloud Migration,IT1002,Eva Green,247467,240399,7068,1.7,32,0.1
+11/21/2024,Network,Develop CRM,IT1004,Carol White,141176,221182,-80006,2.7,3,0.35
+03/24/2024,Network,Security Audit,IT1001,Carol White,316161,466640,-150479,4.5,47,0.03
+08/09/2024,Network,Upgrade Network,IT1001,Carol White,145667,474672,-329005,1.6,38,0.2
+11/23/2024,Network,Develop CRM,IT1001,Alice Smith,103053,452676,-349623,3.7,44,0.23
+06/14/2024,Network,Data Warehouse,IT1005,Alice Smith,231561,440983,-209422,1.7,18,0.64
+09/05/2024,Network,Upgrade Network,IT1004,Eva Green,370815,282277,88538,4.2,37,-0.11
+12/15/2024,Network,Develop CRM,IT1001,Alice Smith,448499,392754,55745,2.3,30,0.9
+04/22/2024,Network,Data Warehouse,IT1005,Eva Green,486542,144135,342407,6,26,0.24
+05/23/2024,Network,Data Warehouse,IT1005,Eva Green,422397,257314,165083,7,43,0.93
+08/22/2024,Network,Security Audit,IT1001,Bob Johnson,313158,310304,2854,4.7,5,0.29
+04/09/2024,Network,Develop CRM,IT1001,Bob Johnson,60103,214404,-154301,1.2,19,0.36
+10/28/2024,Network,Cloud Migration,IT1004,Carol White,224875,182482,42393,2.6,19,0.1
+10/28/2024,Network,Develop CRM,IT1001,Eva Green,404852,41051,363801,5.9,26,0.44
+07/12/2024,Network,Customer Support Portal,IT1004,Eva Green,447674,268931,178743,9.9,38,0.44
+01/16/2024,Network,Security Audit,IT1002,David Brown,228267,288088,-59821,4,43,0.25
+04/30/2024,Network,Customer Support Portal,IT1005,Carol White,260124,226093,34031,2.3,31,0.77
+01/10/2024,Network,Security Audit,IT1004,Eva Green,138835,342103,-203268,4.7,10,0.63
+04/10/2024,Network,Data Warehouse,IT1002,David Brown,343851,415767,-71916,4.6,14,0.57
+08/09/2024,Network,Upgrade Network,IT1004,Bob Johnson,145985,225889,-79904,2.9,42,0.75
+02/10/2024,Network,Upgrade Network,IT1005,David Brown,379317,215595,163722,5.4,45,0.12
+01/03/2024,Network,Develop CRM,IT1004,Alice Smith,337644,253175,84469,6.2,19,0.62
+02/22/2024,Network,Upgrade Network,IT1005,Carol White,296404,43358,253046,2.5,14,0.83
+02/01/2024,Network,Security Audit,IT1003,Carol White,150336,340679,-190343,5.2,47,-0.09
+12/22/2024,Network,Develop CRM,IT1001,David Brown,197026,133079,63947,3.4,31,0.16
+05/16/2024,Network,Customer Support Portal,IT1002,Carol White,394866,95805,299061,7.3,8,0.49
+10/12/2024,Network,Security Audit,IT1001,Alice Smith,52187,327177,-274990,6.5,4,0.87
+07/08/2024,Network,Develop CRM,IT1005,Eva Green,271135,256909,14226,3.8,41,0.25
+07/24/2024,Network,Data Warehouse,IT1003,Carol White,73199,345808,-272609,8.3,20,0.83
+01/01/2024,Network,Data Warehouse,IT1001,Alice Smith,422251,196177,226074,7.1,31,0.01
+09/09/2024,Network,Upgrade Network,IT1002,Alice Smith,357086,345090,11996,6.8,2,0.99
+03/19/2024,Network,Data Warehouse,IT1004,Bob Johnson,104935,131449,-26514,8,7,0.47
+04/18/2024,Network,Customer Support Portal,IT1003,David Brown,320472,285920,34552,9.7,43,-0.2
+05/09/2024,Network,Cloud Migration,IT1001,Bob Johnson,237125,60922,176203,4.6,7,0.08
+03/17/2024,Network,Data Warehouse,IT1005,David Brown,170076,433258,-263182,8.9,26,0.93
+10/21/2024,Network,Cloud Migration,IT1002,Carol White,173130,448222,-275092,8.2,13,-0.07
+12/03/2024,Network,Data Warehouse,IT1002,Alice Smith,100940,84881,16059,8.8,6,0.06
+03/28/2024,Network,Develop CRM,IT1003,Alice Smith,92056,402032,-309976,7.3,13,0.75
+11/27/2024,Network,Data Warehouse,IT1001,Carol White,434092,219689,214403,8.9,38,0.92
+08/27/2024,Network,Upgrade Network,IT1004,David Brown,283192,278245,4947,2.5,37,0.06
+03/30/2024,Network,Develop CRM,IT1001,Carol White,230882,422829,-191947,5.6,49,0.29
+12/05/2024,Network,Security Audit,IT1004,Alice Smith,119300,312137,-192837,7.4,44,0.88
+03/17/2024,Network,Customer Support Portal,IT1004,Carol White,224514,318269,-93755,8.9,24,0.9
+12/28/2024,Network,Upgrade Network,IT1005,Bob Johnson,257139,105333,151806,3.2,49,0.07
+11/10/2024,Network,Upgrade Network,IT1005,Eva Green,87548,261604,-174056,1.1,39,0.55
+07/19/2024,Network,Data Warehouse,IT1005,Eva Green,491153,296674,194479,9.8,22,0.89
+12/13/2024,Network,Data Warehouse,IT1001,David Brown,476618,375064,101554,5.5,37,0.16
+06/27/2024,Network,Cloud Migration,IT1003,Bob Johnson,183962,226304,-42342,6.8,31,0.72
+02/19/2024,Network,Develop CRM,IT1005,Eva Green,433071,98829,334242,3.3,22,0.05
+10/21/2024,Network,Security Audit,IT1003,Bob Johnson,320170,381180,-61010,7.8,12,0.19
+09/16/2024,Network,Cloud Migration,IT1004,Bob Johnson,490880,52306,438574,9.3,32,-0.02
+10/10/2024,Network,Data Warehouse,IT1004,Alice Smith,381119,102780,278339,5.6,38,-0.14
+10/10/2024,Network,Cloud Migration,IT1002,Eva Green,332140,361852,-29712,2.7,3,0.01
+06/02/2024,Network,Develop CRM,IT1001,Alice Smith,85931,261487,-175556,8.2,7,0.54
+02/19/2024,Network,Cloud Migration,IT1005,David Brown,274655,109443,165212,1.1,20,-0.15
+02/20/2024,Network,Customer Support Portal,IT1003,Alice Smith,435827,233725,202102,7.8,31,-0.09
+11/07/2024,Network,Develop CRM,IT1002,Eva Green,240121,184670,55451,1.1,21,0.17
+05/18/2024,Network,Customer Support Portal,IT1003,Eva Green,322769,302257,20512,2.7,14,0.7
+08/17/2024,Network,Upgrade Network,IT1004,Alice Smith,160986,156258,4728,8.9,47,0.23
+04/23/2024,Network,Customer Support Portal,IT1005,Eva Green,293056,349281,-56225,8,16,0.81
+04/28/2024,Network,Security Audit,IT1004,Carol White,162701,333924,-171223,6.7,6,0.59
+08/19/2024,Network,Security Audit,IT1003,Carol White,324370,211389,112981,5.9,19,0.46
+06/02/2024,Network,Cloud Migration,IT1003,Bob Johnson,311497,350444,-38947,5.6,27,0.92
+08/22/2024,Network,Develop CRM,IT1002,Alice Smith,115133,107229,7904,7.9,19,0.8
+08/21/2024,Network,Upgrade Network,IT1005,Carol White,495414,343391,152023,3.6,26,-0.16
+01/15/2024,Network,Security Audit,IT1005,Carol White,467247,477182,-9935,4.5,24,0.09
+01/25/2024,Network,Customer Support Portal,IT1002,Bob Johnson,175814,90599,85215,5.9,44,-0.1
+01/03/2024,Network,Security Audit,IT1003,Bob Johnson,203939,179651,24288,8.2,20,0.55
+02/20/2024,Network,Customer Support Portal,IT1001,David Brown,341207,354410,-13203,5.9,24,0.72
+01/08/2024,Network,Data Warehouse,IT1004,David Brown,286094,174794,111300,4.7,40,0.44
+02/26/2024,Network,Cloud Migration,IT1004,Eva Green,206255,200307,5948,9.6,34,0.1
+04/18/2024,Network,Upgrade Network,IT1004,David Brown,397823,432244,-34421,2.3,36,0.09
+11/07/2024,Network,Cloud Migration,IT1001,Carol White,445319,480999,-35680,9.8,21,0.7
+02/28/2024,Network,Data Warehouse,IT1001,Carol White,231429,96635,134794,6.7,36,0.33
+07/20/2024,Network,Customer Support Portal,IT1004,Carol White,125403,235984,-110581,8.3,36,0.45
+02/06/2024,Network,Security Audit,IT1002,David Brown,493842,118537,375305,6.4,42,0.26
+01/06/2024,Network,Develop CRM,IT1004,Bob Johnson,318788,106253,212535,1.7,35,-0.04
+09/27/2024,Network,Data Warehouse,IT1001,Bob Johnson,476149,131128,345021,3.7,16,-0.16
+10/02/2024,Network,Cloud Migration,IT1004,Carol White,460591,475288,-14697,3.8,32,0.55
+06/29/2024,Network,Data Warehouse,IT1001,Eva Green,217679,329298,-111619,9.7,30,0.02
+12/29/2024,Network,Security Audit,IT1005,Alice Smith,146393,302916,-156523,2.5,25,0.38
+01/25/2024,Network,Upgrade Network,IT1002,Eva Green,439458,455300,-15842,9.2,46,0.58
+08/14/2024,Network,Develop CRM,IT1003,Alice Smith,265250,218296,46954,5.2,9,0.51
+04/11/2024,Network,Customer Support Portal,IT1003,Bob Johnson,61094,298009,-236915,3,21,0.8
+01/13/2024,Network,Upgrade Network,IT1004,Eva Green,317885,312554,5331,4.8,20,0.87
+10/31/2024,Network,Cloud Migration,IT1005,Bob Johnson,428170,226098,202072,5.4,44,0.54
+12/17/2024,Network,Develop CRM,IT1005,Alice Smith,216667,326058,-109391,7.9,40,0.09
+08/31/2024,Network,Develop CRM,IT1002,Bob Johnson,129768,146078,-16310,8.1,16,0.03
+09/21/2024,Network,Security Audit,IT1001,Bob Johnson,375329,176949,198380,7.1,45,0.44
+05/17/2024,Network,Upgrade Network,IT1002,Alice Smith,228646,497353,-268707,7.7,21,0.29
+11/03/2024,Network,Customer Support Portal,IT1001,Bob Johnson,89104,401659,-312555,4.8,19,0.6
+12/09/2024,Network,Develop CRM,IT1005,Eva Green,422828,60855,361973,2.9,13,0.7
+04/19/2024,Network,Data Warehouse,IT1001,David Brown,324336,92003,232333,6,26,0.87
+10/10/2024,Security,Cloud Migration,IT1005,Alice Smith,421994,368821,53173,2.9,41,-0.01
+03/18/2024,Security,Security Audit,IT1004,Eva Green,327667,239298,88369,5,4,0.11
+01/13/2024,Security,Cloud Migration,IT1002,Eva Green,112433,488843,-376410,4,6,0.39
+12/25/2024,Security,Cloud Migration,IT1002,Eva Green,490284,436471,53813,4.6,27,0.29
+01/08/2024,Security,Security Audit,IT1001,David Brown,397139,142412,254727,6.1,11,-0.03
+10/19/2024,Security,Develop CRM,IT1004,Eva Green,261509,341193,-79684,3.7,13,0.16
+01/03/2024,Security,Security Audit,IT1004,Alice Smith,346292,388237,-41945,3.1,8,-0.04
+07/20/2024,Security,Develop CRM,IT1004,Carol White,238799,65517,173282,4.6,28,-0.01
+11/21/2024,Security,Customer Support Portal,IT1004,Alice Smith,387859,466111,-78252,7,3,-0.11
+03/01/2024,Security,Customer Support Portal,IT1002,Bob Johnson,161435,474282,-312847,1.7,21,0.28
+02/04/2024,Security,Develop CRM,IT1005,Alice Smith,459805,417214,42591,7.2,49,0.76
+11/20/2024,Security,Security Audit,IT1005,Carol White,322872,313943,8929,5.2,4,0.81
+07/15/2024,Security,Cloud Migration,IT1001,Carol White,407246,392365,14881,1.1,30,0.4
+03/31/2024,Security,Cloud Migration,IT1004,David Brown,332727,327623,5104,3.3,34,-0.08
+01/22/2024,Security,Customer Support Portal,IT1004,Alice Smith,135774,429388,-293614,1.3,39,0.16
+05/12/2024,Security,Data Warehouse,IT1003,Bob Johnson,438518,95863,342655,4.8,28,0.22
+01/10/2024,Security,Upgrade Network,IT1005,Carol White,116216,296969,-180753,1.8,19,0.71
+05/26/2024,Security,Data Warehouse,IT1005,David Brown,71644,296398,-224754,9.3,36,0.48
+08/15/2024,Security,Security Audit,IT1001,Carol White,112021,290369,-178348,4.7,32,0.84
+09/22/2024,Security,Cloud Migration,IT1003,Eva Green,92291,264597,-172306,7.4,40,0.96
+08/06/2024,Security,Security Audit,IT1004,Alice Smith,479392,117694,361698,7.3,44,0.27
+02/26/2024,Security,Customer Support Portal,IT1002,Carol White,142268,379150,-236882,9.5,19,0.22
+10/19/2024,Security,Upgrade Network,IT1002,David Brown,356958,406957,-49999,6.7,35,0.38
+05/15/2024,Security,Cloud Migration,IT1002,Eva Green,251554,230359,21195,2.2,7,0.23
+05/15/2024,Security,Security Audit,IT1005,Carol White,316317,250747,65570,6.8,6,0.13
+04/30/2024,Security,Develop CRM,IT1002,Bob Johnson,421513,217597,203916,1.9,47,0.92
+09/07/2024,Security,Security Audit,IT1005,Bob Johnson,411447,335599,75848,4.4,32,0.45
+10/05/2024,Security,Security Audit,IT1001,David Brown,233887,180558,53329,9.9,27,0.1
+10/21/2024,Security,Cloud Migration,IT1005,Eva Green,171950,296000,-124050,8.3,9,0.13
+06/25/2024,Security,Customer Support Portal,IT1003,David Brown,175355,483960,-308605,3.8,8,0.52
+04/20/2024,Security,Upgrade Network,IT1003,Eva Green,460482,276500,183982,2.2,21,0.48
+08/20/2024,Security,Security Audit,IT1005,Bob Johnson,439959,316175,123784,6.2,32,0.45
+01/30/2024,Security,Cloud Migration,IT1003,Carol White,384971,325713,59258,6.6,46,0.4
+09/27/2024,Security,Cloud Migration,IT1001,Eva Green,295300,72954,222346,2,42,0.89
+04/13/2024,Security,Cloud Migration,IT1001,Eva Green,285419,318932,-33513,3.1,15,-0.17
+09/06/2024,Security,Upgrade Network,IT1002,Eva Green,131938,384846,-252908,6.5,44,-0.09
+12/04/2024,Security,Develop CRM,IT1001,Eva Green,267813,272933,-5120,9.1,29,0.3
+08/28/2024,Security,Upgrade Network,IT1002,Alice Smith,358307,463573,-105266,7.3,43,0.83
+08/26/2024,Security,Develop CRM,IT1005,Carol White,488486,425243,63243,1.2,47,0.85
+03/14/2024,Security,Develop CRM,IT1005,Carol White,172332,94722,77610,7.9,10,0.19
+11/27/2024,Security,Security Audit,IT1004,Eva Green,139116,413148,-274032,7.1,24,0.93
+10/22/2024,Security,Customer Support Portal,IT1003,Alice Smith,367777,157473,210304,7.8,43,0.22
+10/23/2024,Security,Security Audit,IT1005,Carol White,300216,260741,39475,4.7,4,0.28
+04/05/2024,Security,Cloud Migration,IT1005,David Brown,144776,381775,-236999,9.4,7,0.04
+07/18/2024,Security,Data Warehouse,IT1003,Eva Green,460117,196877,263240,4.1,23,0.36
+09/08/2024,Security,Upgrade Network,IT1002,Eva Green,422185,374923,47262,4.6,2,0.12
+12/17/2024,Security,Cloud Migration,IT1002,David Brown,416081,331581,84500,2.4,45,-0.17
+01/28/2024,Security,Security Audit,IT1004,David Brown,400373,429891,-29518,6.2,14,0.51
+03/03/2024,Security,Cloud Migration,IT1001,Bob Johnson,185189,141014,44175,4.6,2,0.45
+04/10/2024,Security,Cloud Migration,IT1004,Carol White,140265,273006,-132741,4,25,0.96
+04/15/2024,Security,Cloud Migration,IT1005,Bob Johnson,465763,313022,152741,2.9,37,1
+04/18/2024,Security,Develop CRM,IT1002,Bob Johnson,282930,132876,150054,4.1,17,0.29
+12/02/2024,Security,Customer Support Portal,IT1002,Alice Smith,342253,468115,-125862,1.7,12,0.12
+03/26/2024,Security,Data Warehouse,IT1004,Carol White,53849,93751,-39902,6.4,14,0.92
+06/23/2024,Security,Develop CRM,IT1005,Eva Green,330833,237742,93091,8.1,40,0.43
+05/18/2024,Security,Security Audit,IT1002,Alice Smith,52642,366036,-313394,8.9,27,0.55
+06/17/2024,Security,Security Audit,IT1001,David Brown,354281,474848,-120567,9.7,34,-0.19
+10/11/2024,Security,Customer Support Portal,IT1001,Eva Green,437988,270097,167891,7.1,5,0.16
+06/11/2024,Security,Security Audit,IT1005,David Brown,313957,457856,-143899,8.3,37,0.06
+12/18/2024,Security,Cloud Migration,IT1001,David Brown,405171,435725,-30554,9.6,33,0.96
+08/26/2024,Security,Develop CRM,IT1001,Alice Smith,303091,347546,-44455,1.5,20,-0.1
+12/01/2024,Security,Data Warehouse,IT1004,David Brown,314064,316237,-2173,9.1,6,0.73
+05/24/2024,Security,Data Warehouse,IT1003,Carol White,382965,334067,48898,6,19,0.81
+12/07/2024,Security,Data Warehouse,IT1004,Carol White,362660,93664,268996,6.4,45,-0.12
+11/20/2024,Security,Customer Support Portal,IT1002,David Brown,180970,458011,-277041,7.9,18,0.88
+12/16/2024,Security,Upgrade Network,IT1002,Eva Green,54138,288783,-234645,2.5,38,0.87
+11/24/2024,Security,Upgrade Network,IT1002,David Brown,244028,129037,114991,4.6,34,0.96
+08/17/2024,Security,Data Warehouse,IT1005,Bob Johnson,375087,332107,42980,1.6,20,0.33
+03/18/2024,Security,Security Audit,IT1001,Eva Green,110128,56061,54067,6,13,0.71
+06/22/2024,Security,Customer Support Portal,IT1002,Eva Green,136346,458535,-322189,2.1,46,0.26
+12/11/2024,Security,Data Warehouse,IT1002,David Brown,166214,473236,-307022,9.9,37,0.86
+08/04/2024,Security,Customer Support Portal,IT1003,Eva Green,422461,325810,96651,4,45,-0.14
+05/21/2024,Security,Customer Support Portal,IT1002,Carol White,398808,362673,36135,5.3,39,0.52
+01/15/2024,Security,Security Audit,IT1001,Alice Smith,113610,296901,-183291,3.2,9,0.92
+11/25/2024,Security,Data Warehouse,IT1003,David Brown,157237,198547,-41310,8.5,35,0.84
+04/04/2024,Security,Develop CRM,IT1002,Bob Johnson,188368,246446,-58078,2.4,45,0.89
+07/24/2024,Security,Develop CRM,IT1004,Carol White,63261,125639,-62378,9.2,10,0.34
+10/13/2024,Security,Upgrade Network,IT1003,Carol White,176270,321927,-145657,3.6,37,0.77
+07/26/2024,Security,Upgrade Network,IT1005,Carol White,112061,182971,-70910,5.2,41,0.59
+09/28/2024,Security,Security Audit,IT1002,David Brown,396918,317785,79133,4.7,31,0.63
+10/12/2024,Security,Develop CRM,IT1003,Carol White,181208,330401,-149193,8.8,48,-0.11
+04/18/2024,Security,Upgrade Network,IT1004,Carol White,67413,226371,-158958,6.2,10,0.75
+11/21/2024,Security,Cloud Migration,IT1005,Alice Smith,396658,161987,234671,8.3,26,0.76
+05/15/2024,Security,Upgrade Network,IT1005,Alice Smith,273492,46511,226981,6.1,16,0.23
+08/13/2024,Security,Security Audit,IT1002,Alice Smith,56968,149892,-92924,4.8,28,0.78
+03/20/2024,Security,Security Audit,IT1005,Carol White,364069,412739,-48670,1.7,43,0.45
+11/05/2024,Security,Security Audit,IT1004,Eva Green,213187,434709,-221522,6.8,48,-0.09
+12/30/2024,Security,Data Warehouse,IT1002,Bob Johnson,484821,498878,-14057,5.1,9,0.31
+03/03/2024,Security,Security Audit,IT1002,Bob Johnson,202185,357727,-155542,9.1,34,-0.01
+06/11/2024,Security,Develop CRM,IT1001,Carol White,356083,376350,-20267,3,24,0.93
+01/17/2024,Security,Data Warehouse,IT1002,Eva Green,361442,246486,114956,2.9,27,0.62
+10/13/2024,Security,Develop CRM,IT1001,Bob Johnson,397424,95798,301626,2.2,19,0.8
+07/30/2024,Security,Cloud Migration,IT1004,Bob Johnson,86320,125370,-39050,7,28,0.49
+02/25/2024,Security,Upgrade Network,IT1005,Carol White,281324,417700,-136376,4.8,30,0.14
+06/29/2024,Security,Customer Support Portal,IT1003,Carol White,356081,494677,-138596,2.8,40,0.19
+08/24/2024,Security,Upgrade Network,IT1004,Alice Smith,214044,282410,-68366,7.8,23,0
+04/24/2024,Security,Upgrade Network,IT1003,Bob Johnson,120463,42866,77597,9.6,41,0.34
+01/16/2024,Security,Cloud Migration,IT1001,Alice Smith,242816,412847,-170031,8.7,35,0.46
+12/13/2024,Security,Security Audit,IT1001,Carol White,448342,161724,286618,2.3,39,0.16
+10/15/2024,Security,Cloud Migration,IT1002,Alice Smith,211081,102901,108180,7.2,4,0.28
+10/05/2024,Security,Security Audit,IT1003,Bob Johnson,191727,491323,-299596,7.8,6,0.31
+02/11/2024,Security,Security Audit,IT1002,Bob Johnson,101831,206896,-105065,7.7,14,0.37
+12/13/2024,Security,Security Audit,IT1005,Alice Smith,50717,467164,-416447,5.9,47,0.04
+05/09/2024,Security,Develop CRM,IT1005,Carol White,168696,206750,-38054,6.4,16,0.92
+09/24/2024,Security,Security Audit,IT1001,Bob Johnson,316378,295989,20389,8.5,42,0.9
+01/22/2024,Security,Cloud Migration,IT1001,Eva Green,356093,168652,187441,1.9,17,-0.01
+10/16/2024,Security,Security Audit,IT1002,Eva Green,405054,351367,53687,7.1,4,0.34
+04/05/2024,Security,Develop CRM,IT1002,Eva Green,129698,407582,-277884,2.2,46,0.02
+03/25/2024,Security,Data Warehouse,IT1005,Eva Green,95095,60021,35074,7,13,-0.1
+05/24/2024,Security,Customer Support Portal,IT1003,David Brown,442118,409349,32769,6.4,40,0.54
+07/02/2024,Security,Develop CRM,IT1003,Eva Green,377069,443510,-66441,5.6,6,0.36
+12/25/2024,Security,Data Warehouse,IT1001,Bob Johnson,345809,69227,276582,6.4,28,0.92
+06/06/2024,Security,Customer Support Portal,IT1002,David Brown,477876,349143,128733,2.1,40,0.12
+02/19/2024,Security,Develop CRM,IT1004,Eva Green,150922,182453,-31531,1.4,33,0.26
+02/12/2024,Security,Data Warehouse,IT1004,David Brown,216782,140260,76522,5,4,0.92
+09/03/2024,Security,Upgrade Network,IT1004,David Brown,329518,309674,19844,5.1,49,0.58
+08/05/2024,Security,Security Audit,IT1001,David Brown,338213,474635,-136422,8.7,40,0.37
+12/04/2024,Security,Customer Support Portal,IT1005,Bob Johnson,282892,151362,131530,4.6,32,0.77
+08/09/2024,Security,Customer Support Portal,IT1004,Bob Johnson,430172,286517,143655,3.1,6,0.84
+04/26/2024,Security,Customer Support Portal,IT1002,David Brown,245623,463288,-217665,3.2,21,0.07
+10/12/2024,Security,Develop CRM,IT1005,Alice Smith,282654,420182,-137528,9.1,33,0.45
+05/30/2024,Security,Develop CRM,IT1003,Alice Smith,423393,377353,46040,3.7,24,0.57
+10/19/2024,Security,Customer Support Portal,IT1002,Eva Green,257352,187878,69474,1.6,17,0.04
+04/30/2024,Security,Data Warehouse,IT1003,Bob Johnson,426588,341675,84913,9.4,30,0.81
+04/10/2024,Security,Customer Support Portal,IT1002,Eva Green,247530,92227,155303,9.2,24,0.16
+02/21/2024,Security,Develop CRM,IT1005,Eva Green,480917,454761,26156,2.4,18,0.91
+07/06/2024,Security,Upgrade Network,IT1001,Carol White,459760,108207,351553,6.8,14,0.02
+06/18/2024,Security,Cloud Migration,IT1004,Eva Green,459115,374199,84916,2.4,19,0.8
+05/14/2024,Security,Security Audit,IT1005,Bob Johnson,420180,61438,358742,4.2,33,0.77
+07/25/2024,Security,Upgrade Network,IT1004,Carol White,200331,98819,101512,1.4,18,0.14
+01/22/2024,Security,Data Warehouse,IT1004,Alice Smith,293386,133474,159912,8,5,0.78
+02/24/2024,Security,Security Audit,IT1005,Carol White,484474,365137,119337,4.4,22,0.6
+12/12/2024,Security,Data Warehouse,IT1002,Eva Green,476940,152752,324188,2.2,44,0.74
+12/19/2024,Security,Customer Support Portal,IT1002,Bob Johnson,114286,201194,-86908,2.8,37,0.27
+10/14/2024,Security,Data Warehouse,IT1004,Bob Johnson,386986,268584,118402,3.1,49,0.58
+11/15/2024,Security,Develop CRM,IT1005,Bob Johnson,327052,172886,154166,6.8,33,0.92
+08/14/2024,Security,Cloud Migration,IT1003,Carol White,340446,249988,90458,2.8,21,0.38
+11/29/2024,Security,Cloud Migration,IT1002,David Brown,372959,365854,7105,5.2,26,0.85
+07/26/2024,Security,Upgrade Network,IT1005,Bob Johnson,302156,287843,14313,8.2,3,0.43
+09/16/2024,Security,Upgrade Network,IT1005,Bob Johnson,298724,287883,10841,7.2,21,0.76
+10/08/2024,Security,Cloud Migration,IT1004,David Brown,251202,74785,176417,1.2,7,0.1
+11/23/2024,Security,Customer Support Portal,IT1002,Alice Smith,225458,227281,-1823,5.9,18,0.47
+02/11/2024,Security,Upgrade Network,IT1001,Alice Smith,126312,80149,46163,4,28,-0.18
+07/03/2024,Security,Customer Support Portal,IT1004,Alice Smith,83340,45695,37645,8.9,27,0.63
+05/16/2024,Security,Upgrade Network,IT1004,David Brown,251604,302849,-51245,4.2,12,0.11
+11/13/2024,Security,Data Warehouse,IT1004,Alice Smith,160130,182994,-22864,9.2,32,-0.12
+04/30/2024,Security,Customer Support Portal,IT1003,Bob Johnson,334308,367844,-33536,6.1,49,-0.17
+10/20/2024,Security,Cloud Migration,IT1001,Bob Johnson,80257,41881,38376,8.3,37,0.86
+07/29/2024,Security,Develop CRM,IT1001,Carol White,468829,343342,125487,9.5,32,0.42
+04/11/2024,Security,Develop CRM,IT1003,Carol White,64026,406047,-342021,6.6,44,0.89
+04/28/2024,Security,Customer Support Portal,IT1004,Bob Johnson,50917,368734,-317817,5.3,3,-0.01
+02/08/2024,Security,Develop CRM,IT1004,Bob Johnson,453157,448768,4389,7.4,10,0.73
+05/03/2024,Security,Cloud Migration,IT1003,David Brown,487651,471940,15711,3.2,29,0.72
+02/16/2024,Security,Customer Support Portal,IT1001,Alice Smith,447745,351385,96360,7,12,-0.08
+08/09/2024,Software Development,Cloud Migration,IT1003,Alice Smith,211980,233877,-21897,5.4,36,0.25
+04/02/2024,Software Development,Customer Support Portal,IT1004,Carol White,208128,408596,-200468,2.4,4,-0.13
+10/10/2024,Software Development,Customer Support Portal,IT1005,Carol White,487100,326133,160967,4.7,46,0.47
+04/27/2024,Software Development,Upgrade Network,IT1005,Bob Johnson,238221,274583,-36362,7.3,42,0.05
+01/20/2024,Software Development,Develop CRM,IT1004,David Brown,289241,138000,151241,4.7,40,-0.03
+06/08/2024,Software Development,Upgrade Network,IT1003,David Brown,407886,361690,46196,9.9,30,-0.09
+05/03/2024,Software Development,Cloud Migration,IT1003,Alice Smith,203484,412984,-209500,8.8,48,-0.14
+08/20/2024,Software Development,Security Audit,IT1005,Eva Green,143526,185490,-41964,3.6,6,0.4
+11/24/2024,Software Development,Data Warehouse,IT1005,David Brown,369793,213860,155933,6.6,19,0.28
+01/31/2024,Software Development,Security Audit,IT1003,Alice Smith,478733,253456,225277,4.8,38,0.73
+11/11/2024,Software Development,Develop CRM,IT1004,Carol White,188286,71085,117201,1.1,34,-0.07
+10/12/2024,Software Development,Upgrade Network,IT1001,Alice Smith,176479,397931,-221452,1.4,39,-0.05
+03/16/2024,Software Development,Upgrade Network,IT1003,Bob Johnson,314852,330912,-16060,2.9,3,0.49
+07/18/2024,Software Development,Cloud Migration,IT1002,David Brown,422282,131036,291246,1.9,17,0.25
+09/13/2024,Software Development,Upgrade Network,IT1003,David Brown,226118,127954,98164,2.1,6,0.81
+02/17/2024,Software Development,Cloud Migration,IT1005,Carol White,245497,431441,-185944,7.1,40,0.58
+11/30/2024,Software Development,Customer Support Portal,IT1001,David Brown,446489,471201,-24712,8.6,46,0.84
+11/25/2024,Software Development,Security Audit,IT1004,David Brown,290341,151497,138844,3,48,0.66
+07/02/2024,Software Development,Cloud Migration,IT1001,Alice Smith,118368,85619,32749,3.1,6,0.36
+03/29/2024,Software Development,Upgrade Network,IT1004,Carol White,270357,334713,-64356,2.6,22,-0.12
+07/19/2024,Software Development,Develop CRM,IT1002,Carol White,462672,485654,-22982,3.7,40,0.46
+09/19/2024,Software Development,Upgrade Network,IT1002,David Brown,83276,466172,-382896,6.2,28,0.81
+03/06/2024,Software Development,Data Warehouse,IT1003,David Brown,199359,300037,-100678,7.1,4,0.84
+06/03/2024,Software Development,Security Audit,IT1002,Carol White,234384,85066,149318,1,11,0.67
+01/16/2024,Software Development,Customer Support Portal,IT1005,Alice Smith,455328,271387,183941,3.4,6,0.17
+04/08/2024,Software Development,Cloud Migration,IT1003,Eva Green,120305,468454,-348149,8,46,0.58
+07/04/2024,Software Development,Data Warehouse,IT1002,David Brown,218636,435150,-216514,2.1,27,-0.16
+10/29/2024,Software Development,Customer Support Portal,IT1005,Alice Smith,292188,498433,-206245,6.5,14,0.41
+12/14/2024,Software Development,Upgrade Network,IT1002,Carol White,267400,94353,173047,6.7,9,0.9
+05/07/2024,Software Development,Develop CRM,IT1005,Alice Smith,323586,46587,276999,6.6,11,0.36
+02/19/2024,Software Development,Upgrade Network,IT1005,Carol White,459415,191599,267816,5,21,0
+11/07/2024,Software Development,Upgrade Network,IT1003,Alice Smith,142036,233935,-91899,6.3,30,-0.15
+10/27/2024,Software Development,Cloud Migration,IT1004,Carol White,278634,149373,129261,5.9,17,0.69
+05/06/2024,Software Development,Upgrade Network,IT1005,Alice Smith,313031,421058,-108027,8.4,10,0.35
+05/01/2024,Software Development,Data Warehouse,IT1004,David Brown,295809,332203,-36394,7.2,14,0.69
+10/04/2024,Software Development,Upgrade Network,IT1004,Alice Smith,134526,432136,-297610,6.8,6,0.4
+01/29/2024,Software Development,Security Audit,IT1004,David Brown,101913,482239,-380326,5.1,26,0.83
+03/23/2024,Software Development,Upgrade Network,IT1005,Eva Green,236384,315437,-79053,4.4,3,0.41
+02/04/2024,Software Development,Customer Support Portal,IT1002,Eva Green,206989,338546,-131557,10,25,-0.01
+01/18/2024,Software Development,Data Warehouse,IT1002,Carol White,445204,433066,12138,4.2,21,0.72
+07/15/2024,Software Development,Customer Support Portal,IT1005,David Brown,457472,442234,15238,8.9,18,0.67
+07/21/2024,Software Development,Cloud Migration,IT1004,Alice Smith,109778,309165,-199387,6.8,48,0.47
+04/28/2024,Software Development,Cloud Migration,IT1003,David Brown,294629,139214,155415,4.6,27,0.12
+04/30/2024,Software Development,Security Audit,IT1004,Eva Green,440277,153936,286341,2.3,44,-0.13
+08/30/2024,Software Development,Customer Support Portal,IT1002,Bob Johnson,215582,56279,159303,2.4,6,0.45
+12/03/2024,Software Development,Cloud Migration,IT1001,Bob Johnson,435633,237478,198155,1.2,29,-0.04
+05/30/2024,Software Development,Security Audit,IT1003,Alice Smith,140009,287698,-147689,5.7,17,0.91
+05/31/2024,Software Development,Develop CRM,IT1005,Alice Smith,473159,315553,157606,7,10,-0.11
+02/22/2024,Software Development,Customer Support Portal,IT1003,Bob Johnson,94816,212472,-117656,5,15,0.6
+06/03/2024,Software Development,Cloud Migration,IT1002,Carol White,388089,446843,-58754,2.8,49,0.53
+03/16/2024,Software Development,Cloud Migration,IT1003,Eva Green,322595,321836,759,1.5,15,0.77
+07/04/2024,Software Development,Develop CRM,IT1004,Bob Johnson,406007,249912,156095,5.6,36,0.12
+06/06/2024,Software Development,Security Audit,IT1004,Carol White,322422,225272,97150,5.3,40,0.39
+03/21/2024,Software Development,Upgrade Network,IT1002,Carol White,271552,264135,7417,4.4,48,-0.1
+02/19/2024,Software Development,Cloud Migration,IT1001,Eva Green,415567,272679,142888,6.1,17,0.5
+01/12/2024,Software Development,Cloud Migration,IT1004,Bob Johnson,416142,92265,323877,8.9,5,-0.19
+07/25/2024,Software Development,Cloud Migration,IT1004,Bob Johnson,269128,441442,-172314,9.6,30,0.66
+10/02/2024,Software Development,Data Warehouse,IT1004,David Brown,202353,274944,-72591,2.7,36,0.95
+03/14/2024,Software Development,Cloud Migration,IT1005,David Brown,455841,216469,239372,5.7,10,0.47
+04/21/2024,Software Development,Develop CRM,IT1004,Alice Smith,84397,53233,31164,3.2,34,-0.19
+08/27/2024,Software Development,Cloud Migration,IT1004,Eva Green,207221,317871,-110650,9.5,10,0.65
+01/20/2024,Software Development,Develop CRM,IT1002,Bob Johnson,327068,409048,-81980,1.7,16,0.48
+05/29/2024,Software Development,Cloud Migration,IT1001,Eva Green,163143,360608,-197465,1,7,0.86
+04/07/2024,Software Development,Cloud Migration,IT1001,Carol White,409232,194455,214777,5.4,30,0.6
+01/03/2024,Software Development,Upgrade Network,IT1003,Carol White,135178,118116,17062,3.5,15,0.43
+03/22/2024,Software Development,Data Warehouse,IT1003,Carol White,332169,439779,-107610,8,29,-0.05
+11/21/2024,Software Development,Security Audit,IT1003,Alice Smith,224499,216572,7927,4.6,6,0.1
+06/29/2024,Software Development,Security Audit,IT1002,Bob Johnson,180299,171379,8920,4.7,6,-0.16
+12/16/2024,Software Development,Upgrade Network,IT1002,Eva Green,55668,452111,-396443,2.6,46,0.67
+11/28/2024,Software Development,Data Warehouse,IT1005,Carol White,322895,242834,80061,8.2,13,0.38
+01/31/2024,Software Development,Upgrade Network,IT1001,Carol White,358362,470441,-112079,8.8,30,0.45
+05/30/2024,Software Development,Customer Support Portal,IT1001,Bob Johnson,319496,65954,253542,7.2,27,0.01
+01/03/2024,Software Development,Develop CRM,IT1001,Alice Smith,347986,315399,32587,8.9,24,-0.1
+11/23/2024,Software Development,Customer Support Portal,IT1003,Alice Smith,361537,294488,67049,7.7,11,0.09
+02/25/2024,Software Development,Customer Support Portal,IT1005,Carol White,474390,145982,328408,1.2,44,0.3
+12/05/2024,Software Development,Data Warehouse,IT1002,Eva Green,62356,197849,-135493,8.2,4,0.22
+03/08/2024,Software Development,Customer Support Portal,IT1005,Carol White,178128,433464,-255336,7.6,14,0.7
+07/21/2024,Software Development,Data Warehouse,IT1003,Alice Smith,202297,382551,-180254,3.4,7,0.69
+10/12/2024,Software Development,Develop CRM,IT1001,Alice Smith,369764,334098,35666,6.4,43,-0.04
+03/26/2024,Software Development,Upgrade Network,IT1004,Alice Smith,476044,310146,165898,5.6,13,0.21
+05/05/2024,Software Development,Customer Support Portal,IT1004,Carol White,469705,147524,322181,1.1,3,0.1
+04/21/2024,Software Development,Data Warehouse,IT1005,Bob Johnson,291503,153776,137727,6.3,19,0.1
+07/08/2024,Software Development,Customer Support Portal,IT1004,Eva Green,111753,284443,-172690,6,23,0.17
+10/22/2024,Software Development,Data Warehouse,IT1005,David Brown,273861,107766,166095,9.2,12,0.59
+01/14/2024,Software Development,Cloud Migration,IT1005,David Brown,328466,191426,137040,6,33,0.16
+11/19/2024,Software Development,Develop CRM,IT1005,David Brown,339662,151576,188086,6.5,20,0.92
+02/10/2024,Software Development,Upgrade Network,IT1002,Alice Smith,424044,449379,-25335,2.5,40,0.88
+12/08/2024,Software Development,Security Audit,IT1005,David Brown,313844,53780,260064,2.9,34,0.08
+02/14/2024,Software Development,Customer Support Portal,IT1004,Carol White,405926,308733,97193,3.5,20,0.65
+06/28/2024,Software Development,Customer Support Portal,IT1001,Carol White,282076,418028,-135952,4.6,38,0.79
+08/20/2024,Software Development,Develop CRM,IT1001,David Brown,487805,479155,8650,1.1,34,0.3
+02/21/2024,Software Development,Develop CRM,IT1004,Eva Green,159814,293097,-133283,9.4,8,0.15
+07/15/2024,Software Development,Upgrade Network,IT1002,Carol White,296356,59309,237047,2.4,33,-0.11
+12/13/2024,Software Development,Customer Support Portal,IT1005,Bob Johnson,474170,164997,309173,8.9,16,0.07
+03/03/2024,Software Development,Security Audit,IT1001,Eva Green,305688,385203,-79515,8.7,44,0.09
+01/15/2024,Software Development,Develop CRM,IT1003,Alice Smith,250796,403532,-152736,8.1,13,-0.06
+05/12/2024,Software Development,Data Warehouse,IT1002,Alice Smith,383840,205465,178375,3.9,16,0.68
+02/14/2024,Software Development,Data Warehouse,IT1005,Eva Green,373654,313100,60554,8.3,3,0.85
+08/19/2024,Software Development,Security Audit,IT1002,Carol White,108692,479415,-370723,3.7,14,0.77
+01/24/2024,Software Development,Data Warehouse,IT1002,Carol White,161718,359371,-197653,9.5,43,0.18
+08/01/2024,Software Development,Customer Support Portal,IT1004,David Brown,297536,157192,140344,5.5,20,0.95
+07/27/2024,Software Development,Customer Support Portal,IT1004,David Brown,86413,162646,-76233,6.8,4,0.18
+02/08/2024,Software Development,Data Warehouse,IT1005,Carol White,90142,422670,-332528,9.6,12,0.32
+01/28/2024,Software Development,Develop CRM,IT1004,Alice Smith,473914,161688,312226,7,5,0.69
+07/11/2024,Software Development,Develop CRM,IT1002,Bob Johnson,228969,155584,73385,8.3,2,0.2
+06/29/2024,Software Development,Upgrade Network,IT1005,Eva Green,473291,225782,247509,9.5,28,0.18
+03/05/2024,Software Development,Cloud Migration,IT1003,David Brown,442974,160592,282382,5.1,32,-0.09
+02/10/2024,Software Development,Upgrade Network,IT1002,Eva Green,54994,224000,-169006,8.5,43,0.41
+06/08/2024,Software Development,Upgrade Network,IT1005,Carol White,354359,118672,235687,7.3,3,-0.01
+05/23/2024,Software Development,Cloud Migration,IT1003,David Brown,494975,257516,237459,7.5,3,0
+07/31/2024,Software Development,Security Audit,IT1005,Bob Johnson,318620,180347,138273,4.3,2,0.56
+08/18/2024,Software Development,Upgrade Network,IT1003,Eva Green,72010,412641,-340631,8.1,47,0.32
+03/04/2024,Software Development,Upgrade Network,IT1001,David Brown,223311,390782,-167471,4.9,25,0.23
+12/28/2024,Software Development,Security Audit,IT1002,Alice Smith,270283,188459,81824,4.8,47,0.92
+07/08/2024,Software Development,Data Warehouse,IT1001,Eva Green,225607,222690,2917,9.2,32,0.88
+10/04/2024,Software Development,Security Audit,IT1002,Carol White,390686,263122,127564,8.6,12,0.77
+10/20/2024,Software Development,Upgrade Network,IT1001,David Brown,295144,58019,237125,2.5,3,0.18
+01/17/2024,Software Development,Cloud Migration,IT1005,Bob Johnson,174168,328317,-154149,4.1,42,0.29
+05/02/2024,Software Development,Develop CRM,IT1005,Carol White,478956,495582,-16626,8.8,6,0.48
+01/28/2024,Software Development,Data Warehouse,IT1003,Eva Green,158944,168173,-9229,8.8,14,0.54
+01/12/2024,Software Development,Security Audit,IT1002,Eva Green,257574,220183,37391,8,13,0.28
+06/05/2024,Software Development,Security Audit,IT1004,Eva Green,356660,486044,-129384,5.8,35,-0.05
+01/19/2024,Software Development,Develop CRM,IT1005,Eva Green,499449,288044,211405,7.4,48,0.72
+03/06/2024,Software Development,Cloud Migration,IT1001,David Brown,66999,166298,-99299,1,9,0.72
+01/03/2024,Software Development,Security Audit,IT1003,Alice Smith,280233,93218,187015,1.5,10,0.28
+12/16/2024,Software Development,Develop CRM,IT1004,Bob Johnson,448102,321373,126729,3.7,41,0.94
+11/04/2024,Software Development,Security Audit,IT1001,David Brown,260048,228868,31180,3.2,5,0.79
+07/16/2024,Software Development,Develop CRM,IT1005,Alice Smith,491004,97221,393783,2.5,6,-0.15
+01/21/2024,Software Development,Develop CRM,IT1003,Alice Smith,87019,245927,-158908,8.7,17,0.03
+08/20/2024,Software Development,Develop CRM,IT1005,Bob Johnson,488164,303801,184363,1.1,36,0.44
+03/22/2024,Software Development,Upgrade Network,IT1003,David Brown,429747,305308,124439,8.4,15,0.32
+04/21/2024,Software Development,Security Audit,IT1001,Eva Green,312347,490741,-178394,7.7,40,-0.15
+05/04/2024,Software Development,Data Warehouse,IT1004,Carol White,53748,101426,-47678,4.4,34,0.25
+11/15/2024,Software Development,Data Warehouse,IT1001,Alice Smith,429413,372586,56827,1.4,41,-0.2
+11/05/2024,Software Development,Security Audit,IT1004,Alice Smith,392908,347776,45132,3.5,19,0.09
+11/23/2024,Software Development,Customer Support Portal,IT1001,Carol White,201956,161103,40853,9.6,10,0.05
+10/28/2024,Software Development,Data Warehouse,IT1002,David Brown,217031,83856,133175,2.6,20,0.03
+06/24/2024,Software Development,Develop CRM,IT1005,Bob Johnson,115901,83461,32440,4.4,26,0.46
+08/31/2024,Software Development,Develop CRM,IT1004,Bob Johnson,128278,397407,-269129,9.4,12,-0.15
+02/25/2024,Software Development,Security Audit,IT1002,Bob Johnson,152476,244730,-92254,9,17,0.26
+01/24/2024,Software Development,Data Warehouse,IT1002,Eva Green,443184,315848,127336,3.8,17,0.5
+08/14/2024,Software Development,Cloud Migration,IT1002,Bob Johnson,481653,392854,88799,2.3,41,0.12
+02/09/2024,Software Development,Customer Support Portal,IT1003,David Brown,478834,348950,129884,2,29,0.38
+11/11/2024,Software Development,Customer Support Portal,IT1001,Eva Green,373258,234840,138418,4.1,4,-0.06
+05/05/2024,Software Development,Cloud Migration,IT1001,David Brown,164589,221791,-57202,1.5,2,0.93
+03/26/2024,Software Development,Data Warehouse,IT1002,Carol White,144715,337160,-192445,3.2,7,0.61
+03/21/2024,Software Development,Develop CRM,IT1002,Eva Green,495872,177854,318018,2.1,47,0.32
+03/18/2024,Software Development,Cloud Migration,IT1002,David Brown,377350,139352,237998,9.3,25,-0.11
+12/27/2024,Software Development,Upgrade Network,IT1001,Bob Johnson,133178,129379,3799,2.9,43,0.49
+01/10/2024,Software Development,Upgrade Network,IT1001,Bob Johnson,489503,246946,242557,6,41,0.2
+10/22/2024,Software Development,Cloud Migration,IT1002,David Brown,120014,348902,-228888,4,19,0.17
+12/08/2024,Software Development,Upgrade Network,IT1001,Eva Green,400103,196625,203478,7.7,43,-0.15
+05/14/2024,Software Development,Upgrade Network,IT1002,David Brown,161585,355898,-194313,4.1,31,-0.19
+06/28/2024,Software Development,Data Warehouse,IT1004,Carol White,118798,408032,-289234,5,36,0.95
+09/25/2024,Software Development,Develop CRM,IT1002,David Brown,448448,119211,329237,8.6,20,0.9
+11/09/2024,Software Development,Cloud Migration,IT1001,David Brown,102691,453338,-350647,4.3,13,0.29
+03/13/2024,Software Development,Security Audit,IT1004,Bob Johnson,495329,475532,19797,4.6,30,0.49
+08/18/2024,Software Development,Cloud Migration,IT1003,Eva Green,384711,79553,305158,5.1,3,0.86
+11/11/2024,Software Development,Cloud Migration,IT1004,David Brown,134425,71422,63003,7.7,29,0.61
+07/10/2024,Software Development,Security Audit,IT1005,Eva Green,384662,194599,190063,7.4,12,0.84
+09/19/2024,Software Development,Cloud Migration,IT1002,Eva Green,199134,399740,-200606,5.3,15,-0.05
+11/16/2024,Software Development,Security Audit,IT1004,David Brown,111169,429358,-318189,3.3,36,0.12
+07/30/2024,Software Development,Security Audit,IT1003,Alice Smith,267741,231444,36297,1.4,40,0.33
+07/11/2024,Software Development,Develop CRM,IT1002,Carol White,299265,277239,22026,9.8,15,0.54
+01/04/2024,Support,Cloud Migration,IT1003,David Brown,403646,126795,276851,8.8,11,-0.04
+09/26/2024,Support,Upgrade Network,IT1005,Bob Johnson,322919,176285,146634,2.5,8,-0.13
+09/19/2024,Support,Cloud Migration,IT1002,Carol White,187686,212128,-24442,2.3,9,0.8
+09/15/2024,Support,Security Audit,IT1005,Alice Smith,460180,301657,158523,7.1,8,0.01
+02/15/2024,Support,Cloud Migration,IT1001,David Brown,349188,296875,52313,4.5,7,0.51
+03/06/2024,Support,Security Audit,IT1004,Carol White,475468,54995,420473,3.3,35,-0.17
+03/30/2024,Support,Security Audit,IT1004,Bob Johnson,269526,192191,77335,3.2,18,0.64
+09/18/2024,Support,Data Warehouse,IT1002,Carol White,424374,434755,-10381,7.1,46,0.57
+03/29/2024,Support,Cloud Migration,IT1002,Bob Johnson,88578,461869,-373291,2.4,47,0.09
+08/24/2024,Support,Customer Support Portal,IT1005,David Brown,140453,405466,-265013,7.6,7,0.81
+09/11/2024,Support,Develop CRM,IT1003,Bob Johnson,95475,95686,-211,9.8,9,0.94
+12/12/2024,Support,Cloud Migration,IT1005,David Brown,266232,255471,10761,6.9,34,0.2
+06/10/2024,Support,Upgrade Network,IT1002,Carol White,194228,298974,-104746,4,31,0.76
+06/05/2024,Support,Cloud Migration,IT1004,Bob Johnson,466280,92446,373834,6.1,32,-0.02
+09/25/2024,Support,Develop CRM,IT1002,Bob Johnson,75711,488294,-412583,8.7,11,0.24
+03/29/2024,Support,Develop CRM,IT1004,Carol White,80106,398376,-318270,2.8,16,0.25
+03/02/2024,Support,Data Warehouse,IT1001,Carol White,413898,109341,304557,8,24,0.24
+07/31/2024,Support,Customer Support Portal,IT1005,Carol White,277189,307715,-30526,8.4,17,0.55
+11/13/2024,Support,Security Audit,IT1001,Carol White,330519,75903,254616,7.9,31,0.89
+02/06/2024,Support,Data Warehouse,IT1005,Alice Smith,322158,417530,-95372,9.8,29,0.57
+06/05/2024,Support,Develop CRM,IT1004,Alice Smith,414986,418395,-3409,7.1,25,0.9
+04/14/2024,Support,Security Audit,IT1002,Alice Smith,189784,408554,-218770,7.1,46,0.69
+12/06/2024,Support,Data Warehouse,IT1004,David Brown,391102,292388,98714,7.7,29,0.21
+03/13/2024,Support,Security Audit,IT1003,Eva Green,345064,402755,-57691,3,35,-0.18
+06/10/2024,Support,Upgrade Network,IT1004,Bob Johnson,301514,273346,28168,1.5,16,0.28
+06/11/2024,Support,Security Audit,IT1004,Eva Green,83872,221318,-137446,4,5,0.97
+07/09/2024,Support,Security Audit,IT1001,Bob Johnson,115942,398624,-282682,9.7,39,0.58
+01/22/2024,Support,Cloud Migration,IT1004,Alice Smith,476150,229052,247098,9,3,0.24
+03/16/2024,Support,Develop CRM,IT1005,David Brown,265516,263493,2023,6.4,2,0.66
+05/10/2024,Support,Data Warehouse,IT1001,Carol White,155410,124445,30965,3,10,0.74
+08/30/2024,Support,Data Warehouse,IT1004,David Brown,362863,430511,-67648,1.1,32,0.26
+01/01/2024,Support,Security Audit,IT1004,Bob Johnson,346063,205129,140934,3.9,13,0.25
+02/22/2024,Support,Develop CRM,IT1001,David Brown,84675,372891,-288216,8.5,4,0.6
+09/17/2024,Support,Cloud Migration,IT1002,Eva Green,231517,402736,-171219,7.6,22,0.49
+12/18/2024,Support,Data Warehouse,IT1004,Eva Green,415735,292084,123651,5.9,16,0.03
+12/03/2024,Support,Customer Support Portal,IT1003,Alice Smith,191650,161015,30635,8.7,17,0.94
+11/11/2024,Support,Customer Support Portal,IT1001,Eva Green,181060,162257,18803,9.6,2,0.29
+04/12/2024,Support,Data Warehouse,IT1004,Alice Smith,199696,236536,-36840,6.1,17,0.36
+03/27/2024,Support,Develop CRM,IT1001,David Brown,351338,264021,87317,5.6,38,-0.14
+01/26/2024,Support,Customer Support Portal,IT1001,Eva Green,426047,411234,14813,4.5,17,0.09
+10/23/2024,Support,Cloud Migration,IT1005,Carol White,313625,98870,214755,8.9,26,0.79
+10/02/2024,Support,Customer Support Portal,IT1002,David Brown,267060,221068,45992,2.2,47,0.96
+10/28/2024,Support,Customer Support Portal,IT1005,Alice Smith,455105,76683,378422,7.8,10,0.61
+01/14/2024,Support,Upgrade Network,IT1001,Eva Green,358433,314934,43499,2.7,30,0.35
+07/13/2024,Support,Customer Support Portal,IT1004,David Brown,365891,333624,32267,1.2,17,0.5
+10/18/2024,Support,Data Warehouse,IT1002,Carol White,197595,418519,-220924,1.8,39,0.79
+01/26/2024,Support,Security Audit,IT1002,David Brown,135024,380136,-245112,5.5,25,0.47
+11/30/2024,Support,Data Warehouse,IT1005,Bob Johnson,430392,416253,14139,3.8,30,0.48
+05/03/2024,Support,Develop CRM,IT1005,Alice Smith,389933,348295,41638,4.3,30,0.13
+04/29/2024,Support,Cloud Migration,IT1003,Carol White,393630,373095,20535,9.2,28,0.04
+03/05/2024,Support,Security Audit,IT1004,Carol White,284231,341643,-57412,7.3,28,0.18
+07/11/2024,Support,Upgrade Network,IT1001,Carol White,72931,171890,-98959,4,2,0.41
+10/13/2024,Support,Security Audit,IT1003,Eva Green,301671,259045,42626,4.6,11,-0.14
+01/27/2024,Support,Upgrade Network,IT1003,Eva Green,75991,316053,-240062,3.3,7,0.31
+09/29/2024,Support,Customer Support Portal,IT1002,Eva Green,235917,324535,-88618,2.1,3,0.26
+07/22/2024,Support,Security Audit,IT1005,Bob Johnson,287113,474895,-187782,5.6,38,-0.13
+01/30/2024,Support,Upgrade Network,IT1001,Alice Smith,178467,135408,43059,2,2,0.51
+12/18/2024,Support,Upgrade Network,IT1002,Bob Johnson,268800,432716,-163916,4.5,46,0.86
+06/08/2024,Support,Customer Support Portal,IT1001,Bob Johnson,176155,160062,16093,6.9,31,0.42
+02/27/2024,Support,Upgrade Network,IT1001,Eva Green,82088,380270,-298182,9.5,12,-0.05
+01/09/2024,Support,Data Warehouse,IT1005,Alice Smith,147718,263813,-116095,2.1,11,0.38
+05/18/2024,Support,Data Warehouse,IT1005,Alice Smith,80949,268060,-187111,7.6,29,0.81
+07/01/2024,Support,Develop CRM,IT1001,Carol White,380280,481121,-100841,6,41,0.18
+04/03/2024,Support,Cloud Migration,IT1001,Eva Green,245691,81235,164456,8.8,18,0.03
+08/09/2024,Support,Develop CRM,IT1001,Alice Smith,303279,126124,177155,7.8,19,0.79
+08/17/2024,Support,Cloud Migration,IT1003,Carol White,311445,329629,-18184,8.5,40,0.96
+09/02/2024,Support,Customer Support Portal,IT1002,Bob Johnson,101707,460489,-358782,8.5,8,-0.06
+08/04/2024,Support,Upgrade Network,IT1004,Alice Smith,386960,261094,125866,2.1,8,0.38
+07/27/2024,Support,Data Warehouse,IT1002,David Brown,353387,205596,147791,3.5,49,0.74
+02/22/2024,Support,Cloud Migration,IT1005,Bob Johnson,223123,427585,-204462,6.8,26,0.37
+02/08/2024,Support,Upgrade Network,IT1003,David Brown,377762,332820,44942,6.4,2,0.77
+09/11/2024,Support,Security Audit,IT1002,David Brown,393276,381558,11718,5,44,0.62
+12/28/2024,Support,Customer Support Portal,IT1002,Eva Green,314237,488512,-174275,1.4,46,-0.14
+03/23/2024,Support,Customer Support Portal,IT1001,Eva Green,421344,419593,1751,8.4,17,0.67
+07/06/2024,Support,Data Warehouse,IT1002,Carol White,309480,319528,-10048,3,40,1
+08/06/2024,Support,Cloud Migration,IT1005,Alice Smith,241758,206536,35222,6.1,40,0.8
+04/06/2024,Support,Develop CRM,IT1005,Bob Johnson,55039,103502,-48463,1.4,13,0.71
+09/22/2024,Support,Develop CRM,IT1005,Carol White,60442,492175,-431733,6.8,18,0.19
+06/28/2024,Support,Security Audit,IT1004,Bob Johnson,431873,147228,284645,9.5,33,0.49
+05/08/2024,Support,Develop CRM,IT1004,Eva Green,264176,280198,-16022,2.5,6,0.47
+12/07/2024,Support,Upgrade Network,IT1001,Carol White,379231,486005,-106774,2.1,43,0.3
+12/29/2024,Support,Upgrade Network,IT1003,Carol White,313013,475514,-162501,4.7,16,-0.1
+10/03/2024,Support,Data Warehouse,IT1003,Carol White,476674,360961,115713,2.6,40,0.03
+07/03/2024,Support,Data Warehouse,IT1002,David Brown,472277,81830,390447,7.6,4,0.26
+10/05/2024,Support,Upgrade Network,IT1003,Eva Green,205242,486283,-281041,3.8,43,0.83
+10/04/2024,Support,Develop CRM,IT1003,David Brown,58024,50234,7790,4.5,39,0.7
+01/10/2024,Support,Customer Support Portal,IT1005,David Brown,398091,311365,86726,1.9,43,-0.06
+02/06/2024,Support,Cloud Migration,IT1004,David Brown,403973,232485,171488,7.1,49,0.5
+11/14/2024,Support,Cloud Migration,IT1002,Eva Green,461473,458517,2956,9.3,14,0.24
+09/07/2024,Support,Security Audit,IT1002,David Brown,413265,374370,38895,4.1,34,-0.06
+09/02/2024,Support,Data Warehouse,IT1002,Bob Johnson,230903,434473,-203570,3,45,0.72
+05/18/2024,Support,Develop CRM,IT1001,Alice Smith,205489,78134,127355,4.8,34,0.67
+12/28/2024,Support,Upgrade Network,IT1004,David Brown,206470,438971,-232501,9.5,36,0.5
+10/17/2024,Support,Upgrade Network,IT1004,Bob Johnson,343925,375946,-32021,4.8,48,0.29
+10/30/2024,Support,Security Audit,IT1002,Alice Smith,478745,491110,-12365,6,6,0.84
+12/12/2024,Support,Data Warehouse,IT1003,Bob Johnson,199524,197596,1928,2.9,45,0.01
+07/06/2024,Support,Cloud Migration,IT1002,Carol White,359550,307842,51708,8,35,0.18
+02/22/2024,Support,Upgrade Network,IT1001,Eva Green,347242,350383,-3141,2.2,25,0.2
+06/01/2024,Support,Upgrade Network,IT1005,Alice Smith,184678,84041,100637,4.8,44,-0.02
+07/23/2024,Support,Upgrade Network,IT1001,Eva Green,445807,312847,132960,1.2,27,0.56
+03/14/2024,Support,Cloud Migration,IT1004,Carol White,403827,466322,-62495,2.6,37,0.43
+11/25/2024,Support,Develop CRM,IT1004,Bob Johnson,285497,395608,-110111,1.8,47,0.08
+05/20/2024,Support,Upgrade Network,IT1004,Bob Johnson,131257,296868,-165611,6.6,45,0.84
+04/22/2024,Support,Develop CRM,IT1005,Bob Johnson,454303,381678,72625,5.7,44,-0.18
+09/04/2024,Support,Data Warehouse,IT1005,Bob Johnson,109500,495302,-385802,6.4,41,0.61
+03/27/2024,Support,Security Audit,IT1002,Eva Green,311545,154816,156729,2.6,9,0.77
+01/27/2024,Support,Data Warehouse,IT1001,Eva Green,285595,409393,-123798,3.2,28,0.69
+04/21/2024,Support,Security Audit,IT1005,Bob Johnson,55520,83326,-27806,8.2,24,0.08
+01/15/2024,Support,Upgrade Network,IT1004,Bob Johnson,225121,194648,30473,7,43,-0.09
+06/08/2024,Support,Develop CRM,IT1004,Bob Johnson,120269,268404,-148135,3.6,23,0.35
+09/22/2024,Support,Cloud Migration,IT1001,Eva Green,79345,162502,-83157,2.2,34,-0.2
+10/15/2024,Support,Security Audit,IT1002,Eva Green,311798,289819,21979,7.8,17,0.48
+09/22/2024,Support,Customer Support Portal,IT1003,Bob Johnson,434583,93592,340991,7.9,47,0.17
+05/05/2024,Support,Customer Support Portal,IT1003,David Brown,150546,338351,-187805,6.2,9,0.14
+02/15/2024,Support,Data Warehouse,IT1005,Eva Green,130201,352500,-222299,2.9,29,0.14
+08/14/2024,Support,Security Audit,IT1005,Bob Johnson,211121,481830,-270709,6.8,7,0.75
+01/29/2024,Support,Cloud Migration,IT1003,Bob Johnson,283612,233767,49845,3.1,23,0.97
+05/17/2024,Support,Develop CRM,IT1005,Bob Johnson,445136,417244,27892,3.4,27,0.86
+04/18/2024,Support,Upgrade Network,IT1005,Alice Smith,454015,266817,187198,9.1,24,0.32
+05/25/2024,Support,Cloud Migration,IT1004,Eva Green,472132,447227,24905,2.6,8,0.68
+11/12/2024,Support,Upgrade Network,IT1003,Alice Smith,257772,258042,-270,4.1,14,-0.13
+12/25/2024,Support,Develop CRM,IT1003,Bob Johnson,403076,240569,162507,7.1,7,0.36
+12/25/2024,Support,Security Audit,IT1001,Bob Johnson,193888,283561,-89673,5.6,19,-0.08
+09/02/2024,Support,Cloud Migration,IT1001,Eva Green,476488,374517,101971,2.5,46,0.83
+03/20/2024,Support,Customer Support Portal,IT1001,Carol White,338107,114960,223147,8.6,36,0.97
+01/07/2024,Support,Develop CRM,IT1002,Alice Smith,93954,92421,1533,4.5,23,0.96
+01/13/2024,Support,Data Warehouse,IT1004,Alice Smith,407574,83618,323956,8.5,12,0.77
+06/08/2024,Support,Security Audit,IT1003,David Brown,447650,87111,360539,7.5,36,0.61
+12/11/2024,Support,Upgrade Network,IT1005,Bob Johnson,73185,240351,-167166,4.3,25,0.96
+01/15/2024,Support,Data Warehouse,IT1003,Alice Smith,353297,369653,-16356,2,39,-0.05
+06/16/2024,Support,Develop CRM,IT1001,David Brown,389679,101602,288077,4.7,32,-0.1
+04/07/2024,Support,Data Warehouse,IT1005,David Brown,219831,232318,-12487,3.4,26,-0.11
+04/04/2024,Support,Upgrade Network,IT1003,Alice Smith,206379,374794,-168415,3.7,4,0.89
+07/02/2024,Support,Security Audit,IT1001,Alice Smith,494972,477429,17543,4.2,22,-0.11
+08/21/2024,Support,Cloud Migration,IT1002,David Brown,295762,84036,211726,9.8,18,0.49
+10/10/2024,Support,Customer Support Portal,IT1004,David Brown,465551,182867,282684,1.7,4,0.4
+12/02/2024,Support,Data Warehouse,IT1001,Carol White,339341,451370,-112029,4.7,13,0.21
+12/10/2024,Support,Data Warehouse,IT1005,Alice Smith,321421,149430,171991,10,3,0.05
+02/08/2024,Support,Security Audit,IT1004,Carol White,360152,93822,266330,4.1,34,0.41
+12/01/2024,Support,Customer Support Portal,IT1002,Alice Smith,326827,64042,262785,1.5,40,0.35
+01/20/2024,Support,Security Audit,IT1004,David Brown,198961,410258,-211297,3,38,0.26
+02/09/2024,Support,Upgrade Network,IT1001,David Brown,498828,129424,369404,1,29,0.39
+10/13/2024,Support,Data Warehouse,IT1005,Alice Smith,366463,189395,177068,7.7,24,-0.2
+03/11/2024,Support,Data Warehouse,IT1004,Bob Johnson,404211,377570,26641,2.1,41,0.31
+08/28/2024,Support,Develop CRM,IT1003,David Brown,202711,80863,121848,1.6,42,0.08
+11/18/2024,Support,Cloud Migration,IT1005,David Brown,302217,401495,-99278,4.9,3,0.57
+08/01/2024,Support,Security Audit,IT1003,Eva Green,332320,433441,-101121,2,30,0.3
+08/16/2024,Support,Develop CRM,IT1005,Carol White,113972,90706,23266,9.9,39,0.04
+02/11/2024,Support,Security Audit,IT1004,David Brown,248237,305143,-56906,6,46,0.37
+03/13/2024,Support,Data Warehouse,IT1005,Carol White,495093,77034,418059,8.4,25,0.3
+03/30/2024,Support,Security Audit,IT1003,David Brown,212781,50589,162192,8.7,27,0.73
+04/25/2024,Support,Security Audit,IT1005,David Brown,208598,133078,75520,9,16,0.36
+02/14/2024,Support,Data Warehouse,IT1004,Alice Smith,295172,275113,20059,3.6,22,0.94
+02/06/2024,Support,Customer Support Portal,IT1004,Eva Green,140880,330414,-189534,1.8,47,0.22
+04/19/2024,Support,Security Audit,IT1004,David Brown,428669,416792,11877,4.5,28,0.41
+02/19/2024,Support,Customer Support Portal,IT1002,David Brown,178216,302021,-123805,2,35,0.23
+06/15/2024,Support,Customer Support Portal,IT1003,Alice Smith,402156,255189,146967,2.3,22,0.39
+09/29/2024,Support,Cloud Migration,IT1001,David Brown,432865,410602,22263,8.3,31,0.6
+01/13/2024,Support,Upgrade Network,IT1005,David Brown,147537,152793,-5256,1.6,17,0.14
+12/15/2024,Support,Customer Support Portal,IT1005,Alice Smith,349372,302402,46970,7.3,7,0.68
+10/03/2024,Support,Cloud Migration,IT1002,Carol White,73386,137580,-64194,4.3,25,-0.18
+01/01/2024,Support,Cloud Migration,IT1001,Bob Johnson,195406,477918,-282512,6.5,38,0.42
+11/29/2024,Support,Cloud Migration,IT1005,Alice Smith,418753,150966,267787,5.4,8,0.24
+01/21/2024,Support,Cloud Migration,IT1003,Eva Green,451426,468928,-17502,9.6,47,-0.1
+03/25/2024,Support,Develop CRM,IT1002,Bob Johnson,163711,300091,-136380,3.3,36,0.23
+02/24/2024,Support,Develop CRM,IT1005,David Brown,476634,406645,69989,9.3,23,0.08
+03/08/2024,Support,Develop CRM,IT1002,Bob Johnson,457427,422783,34644,4.1,31,0.3
+04/20/2024,Support,Upgrade Network,IT1002,Eva Green,343052,415659,-72607,8.6,16,0.63
+05/22/2024,Support,Cloud Migration,IT1003,Eva Green,272123,388138,-116015,4.2,16,0.38
+04/30/2024,Support,Customer Support Portal,IT1003,Carol White,69288,22766,46522,5.9,24,0.93
+06/11/2024,Support,Customer Support Portal,IT1002,Carol White,473093,334150,138943,3.6,12,0.35
+01/24/2024,Support,Customer Support Portal,IT1005,David Brown,303187,282555,20632,9.6,38,0.55
+11/12/2024,Support,Cloud Migration,IT1004,David Brown,312091,68202,243889,5.7,36,-0.04
+06/24/2024,Support,Cloud Migration,IT1003,Eva Green,109821,466963,-357142,1,4,0.06
